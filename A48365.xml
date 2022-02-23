@@ -1,0 +1,733 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to Sr. Thomas Manwaring's answer to my two books. Written by Sr. Peter Leycester, Baronet, anno Domini, 1675. The second reply. Together with the case of Amicia truly stated</title>
+            <author>Leycester, Peter, Sir, 1614-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48365</idno>
+            <idno type="STC">Wing L1944</idno>
+            <idno type="STC">ESTC R213614</idno>
+            <idno type="EEBO-CITATION">99825950</idno>
+            <idno type="PROQUEST">99825950</idno>
+            <idno type="VID">30342</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30342)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1796:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to Sr. Thomas Manwaring's answer to my two books. Written by Sr. Peter Leycester, Baronet, anno Domini, 1675. The second reply. Together with the case of Amicia truly stated</title>
+                  <author>Leycester, Peter, Sir, 1614-1678.</author>
+               </titleStmt>
+               <extent>[6], 85, [3], 89-103, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Mainwaring, Sir Thomas.  An answer to two books.</note>
+                  <note>"The case of Amicia truly stated" has a separate dated title page; pagination and register are continuous.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mainwaring, Thomas, --  Sir, 1623-1689. --  Answer to two books --  Early works to 1800.</term>
+               <term>Mainwaring, Amicia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30342:1"/>
+            <pb facs="tcp:30342:1"/>
+            <p>A REPLY TO S<hi rend="sup">r</hi>. <hi>Thomas Manwaring</hi>'s ANSWER TO MY TWO BOOKS.</p>
+            <p>Written by Sr. <hi>Peter Leyceſter</hi> Baronet, <hi>Anno Domini,</hi> 1675.</p>
+            <p>The Second REPLY.</p>
+            <p>Together with the Caſe of <hi>Amicia</hi> truly Stated.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="to_the_reader">
+                  <pb facs="tcp:30342:2" rendition="simple:additions"/>
+                  <pb facs="tcp:30342:2"/>
+                  <head>THE PREFACE TO THE READER.</head>
+                  <p>
+                     <hi>I</hi> Received on the <hi>13th.</hi> of <hi>April, 1675.</hi> a very ſtrange kind of Book from Sir <hi>Thomas Man<g ref="char:EOLhyphen"/>waring,</hi> then delivered unto me by his Servant; wherein I ex<g ref="char:EOLhyphen"/>pected a Book of Arguing to the point of the Controverſie between us: But behold a book of Rail<g ref="char:EOLhyphen"/>ing, catching (as his uſual manner is) at every ſmall impertinent thing.</p>
+                  <p>That I may the ſooner come to the Book it ſelf, I ſhall obſerve
+<pb facs="tcp:30342:3"/>only out of his Epistle, this one thing, How he minceth the Truth, in telling the Reader—that my Servant did (by my Command) ſignifie unto him in a Letter, that I would write again, and this be<g ref="char:EOLhyphen"/>fore Sir <hi>Thomas</hi> had Printed one word of his <hi>Reply:</hi> So that if he find me thus Stumbling at the first, it is well if he do not take me oft Tripping before I come to my Jour<g ref="char:EOLhyphen"/>neys end.</p>
+                  <p>Whereunto I ſay that he deals not clearly in his words, and de<g ref="char:EOLhyphen"/>clareth not the whole Truth: For it is true, that I did command my Servant to write unto him; but what did I command him to write? Was it barely that I would then write again? No: but to let him know, that I had then found ſome new Precedents which (I conceived) would clear the point between us, and came to my knowledge ſince I had publiſhed my Anſwer; of which I thought good to give him timely notice, that I would add them to my Anſwer already Printed, which
+<pb facs="tcp:30342:3"/>were omitted therein; and this be<g ref="char:EOLhyphen"/>fore his <hi>Reply</hi> was Printed, as Sir <hi>Thomas</hi> here confeſſeth: This was rather an amendment of my former book, then writing again <hi>de novo;</hi> for as yet he had publiſhed no book against it, but this part of the Truth he conceals; and if my Ser<g ref="char:EOLhyphen"/>vant writ otherwiſe than to this effect, I utterly diſown it to be written by my command: But be<g ref="char:EOLhyphen"/>fore I could get my <hi>Addenda</hi> Print<g ref="char:EOLhyphen"/>ed, he Publiſhed a <hi>Reply</hi> to my Anſwer; wherein were ſo many Crimes charged upon me, that I was forced to a Vindication of my ſelf, which I did then put into my <hi>Ad<g ref="char:EOLhyphen"/>denda,</hi> yet not ſo fully as I might have done: See my <hi>Addenda,</hi> p. <hi>8.</hi> and alſo <hi>p. 27.</hi>
+                  </p>
+                  <p>And whatſoever I have alſo writ<g ref="char:EOLhyphen"/>ten more, then what I firſt intended and declared, I have been forced thereunto in my own defence.</p>
+                  <p>And ſo I will now briefly come to his Book, and hope to ſhew clear<g ref="char:EOLhyphen"/>ly who Trips most in the Journey, he or I; and wherein I do Trip, it
+<pb facs="tcp:30342:4"/>ſhall be readily confeſt: I think mine will not be found many, nor material to the main point; but I believe his will be found Funda<g ref="char:EOLhyphen"/>mental Errors: And I could wiſh that Sir <hi>Thomas</hi> would as freely confeſs his Trips as I ſhall confeſs mine, then the whole buſineſs would ſoon be at an end.</p>
+                  <p>And herein I ſhall endeavour all along to avoyd all abloquies, where<g ref="char:EOLhyphen"/>with he adoundeth as much as I can; for Calumnies and Slanders will find no place among Wiſe and Good Men, and are ever incon<g ref="char:EOLhyphen"/>ſiſtent with thoſe excellent Chriſtian Graces of Humility and meekneſs.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Mobberly,</hi> 
+                        <date>May <hi>the 18th. 1675.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:30342:4"/>
+                  <head>A Second Reply.</head>
+                  <div type="Manwarings_response">
+                     <head>Pag. 1. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Ere he ſaith, that I affirm ſeveral times, that <hi>Glanvil</hi> ſaith that Lands may be given with any Wo<g ref="char:EOLhyphen"/>man <hi>in liberum ma<g ref="char:EOLhyphen"/>ritagium:</hi> where<g ref="char:EOLhyphen"/>as he ſaith only, they may be given <hi>cum quâlibet muliere in maritagium.</hi>
+                     </p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>I did, and do yet affirm it; and have proved it too; ſee <hi>pag.</hi> 54. of my former Reply, which yet he hath
+<pb n="2" facs="tcp:30342:5"/>not anſwered: nor do I believe that he can rationally anſwer my Argument there: For though <hi>Glan<g ref="char:EOLhyphen"/>vil</hi> hath not theſe very words— Lands may be given with any Wo<g ref="char:EOLhyphen"/>man <hi>in liberum maritagium</hi>]; yet he ſaith it by Conſequence, drawn clearly out of his words, <hi>lib.</hi> 7. <hi>cap.</hi> 18. which is the ſame in ef<g ref="char:EOLhyphen"/>fect.</p>
+                        <p>Nor doth Sir <hi>Thomas</hi> repeat <hi>Glanvil</hi>'s words aright; and yet he is ready upon all occaſions to tax me with the like: the words of <hi>Glanvil,</hi> lib. 7. cap. 1. are—<hi>quili<g ref="char:EOLhyphen"/>bet liber homo, terram habens, quan<g ref="char:EOLhyphen"/>dam partem terrae ſua cùm filiâ ſuâ, vel cum aliquâ aliâ qualibet muliere, potest dare in maritagium</hi>—&amp;c. not barely <hi>cùm qualibet muliere.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 2. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, I tell him that I have proved <hi>Geva</hi> to be a Baſtard out of an Hiſtorian Contemporary; by which <hi>Ordericus Vitalis</hi> is meant,
+<pb n="3" facs="tcp:30342:5"/>and yet <hi>Ordericus</hi> ſaith no ſuch thing.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>'Tis true, I ſaid ſo, and have proved it too: See my Anſwer to his Defence of <hi>Amicia,</hi> pag. 34, 35. for though he hath not theſe very words [Geva <hi>is a Baſtard</hi>], yet by ſure Conſequence it follows out of the words of <hi>Ordericus,</hi> that ſhe was a Baſtard, which is all to one effect; and here is another trip of a fallacy in Sir <hi>Thomas.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 2. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p n="1">1. Here he alſo ſaith, that I af<g ref="char:EOLhyphen"/>firm the Common Law is now al<g ref="char:EOLhyphen"/>tered otherwiſe than by Act of Par<g ref="char:EOLhyphen"/>liament, without quoting any Au<g ref="char:EOLhyphen"/>thor.</p>
+                     <p n="2">2. And alſo that I brag of ſeve<g ref="char:EOLhyphen"/>ral Precedents where Lands were given in free Marriage with Baſtards; and yet I prove not theſe neceſſary words of <hi>liberum marita<g ref="char:EOLhyphen"/>gium</hi>
+                        <pb n="4" facs="tcp:30342:6"/>(as the Lord <hi>Cook</hi> calls them) were uſed in any of thoſe grants, or that any of thoſe Perſons, with whom ſuch Lands were given, were Baſtards.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>Here is another Trip of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas;</hi> for I have quoted the Lord <hi>Cook</hi> himſelf in ſeveral Caſes for it: See my Anſwer to his <hi>Defence of</hi> Amicia, <hi>pag.</hi> 23, 24, 25, 26. and yet he is not aſhamed to ſay here, I quoted no Author for it: And I could yet produce a number of Caſes more, wherein the Law is altered without any Act of Parlia<g ref="char:EOLhyphen"/>ment, if it were neceſſary.</p>
+                        <p n="2">2. To the Second: I produced thoſe ancient precedents to ſhow, that thoſe words <hi>[in liberum mari<g ref="char:EOLhyphen"/>tagium]</hi> were not anciently ſo ne<g ref="char:EOLhyphen"/>ceſſary in grants of free Marriage, as the Lord <hi>Cook</hi> would now have them to be; and then Sir <hi>Thomas</hi> ſaith, that I have not proved any of thoſe Perſons with whom ſuch Lands were given (in free Marri<g ref="char:EOLhyphen"/>age)
+<pb n="5" facs="tcp:30342:6"/>were Baſtards: <hi>Sit liber ju<g ref="char:EOLhyphen"/>dex,</hi> as to that of <hi>Geva:</hi> See alſo my former Reply, <hi>pag.</hi> 38. where <hi>Joan Princeſs</hi> of <hi>Wales</hi> is clearly proved to be a Baſtard by the Te<g ref="char:EOLhyphen"/>ſtimony of moſt of our Hiſtorians; but none ſaying ſhe was a lawful Daughter, and that ſhe had Lands given her in free Marriage by King <hi>John</hi> her Father: See my Adver<g ref="char:EOLhyphen"/>tiſement to the Reader, at the end of my two ſaid Books; alſo my <hi>Addenda,</hi> pag. 3, 4. and my for<g ref="char:EOLhyphen"/>mer Reply, <hi>pag.</hi> 25.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 3. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, I tell him <hi>Lewellyn</hi> Prince of <hi>North-Wales</hi> was Di<g ref="char:EOLhyphen"/>vorced from his Wife <hi>Joan,</hi> for which I can neither ſhew Author, nor Record:</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>I do not poſitively affirm it: the words in my former Reply, <hi>pag.</hi> 44.
+<pb n="6" facs="tcp:30342:7"/>are theſe—if ſhe were Re-married to <hi>Audley,</hi> anno 14. <hi>Hen.</hi> 3. then it is a ſure Argument that ſhe was Divorced; and whether ſhe was ſo Married or no, 14. <hi>Hen.</hi> 3. let the Record Vouched by <hi>Vincent,</hi> be the Judge.</p>
+                        <p>Here is another Trip of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas;</hi> for he ſaith, that I can nei<g ref="char:EOLhyphen"/>ther ſhew Author, nor Record: in<g ref="char:EOLhyphen"/>deed <hi>Vincent</hi> doth not ſay ſhe was Divorced; but he ſaith, ſhe was Re-married to <hi>Audley;</hi> and ſo by conſequence ſhe muſt needs be Di<g ref="char:EOLhyphen"/>vorced, <hi>Lewellyn</hi> being then a<g ref="char:EOLhyphen"/>live.</p>
+                        <p>But I have now publiſhed an Advertiſement to the Reader at the end of my two ſaid Books, where I have ſet forth the Copy of that Record; and do find that <hi>Vin<g ref="char:EOLhyphen"/>cent</hi> hath clearly miſtaken the Re<g ref="char:EOLhyphen"/>cord; for it proves <hi>Robert de Aud<g ref="char:EOLhyphen"/>ley</hi> did Marry <hi>Joan,</hi> Daughter of <hi>Richard de Landâ,</hi> but nothing at all of any Marriage with <hi>Joan</hi> Princeſs of <hi>Wales.</hi>
+                        </p>
+                        <p>Yet nothing hinders, but ſhe
+<pb n="7" facs="tcp:30342:7"/>might have been Divorced from <hi>Lewellyn,</hi> being taken in Adultery with <hi>William de Brews;</hi> and if Sir <hi>Thomas</hi> will allow the Note of Dr. <hi>Powel</hi> to be Authentical here<g ref="char:EOLhyphen"/>in, <hi>pag.</hi> 315. of his Notes upon the Welſh-Hiſtory, <hi>Lewellyn</hi> had another Wife after <hi>Joan,</hi> called <hi>Eva,</hi> Daughter of <hi>Fouk de Breant,</hi> but had no Iſſue by her, as he ſaith; which could not be without a Di<g ref="char:EOLhyphen"/>vorce, unleſs we ſuppoſe <hi>Lewellyn</hi> Married after the death of <hi>Joan,</hi> for he ſurvived not <hi>Joan</hi> above two or three years; and then we find him Diſeaſed with the Palſey, and in a dying condition, <hi>anno</hi> 1237. See <hi>Mat. Paris,</hi> pag. 437. and therefore probably, if he were ſo Re-married at all, it was before that declining ſtate of his: But yet I will not poſitively affirm that <hi>Joan</hi> was Divorced.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 3. <hi>Of his Anſwer</hi> ibidem.</head>
+                     <p>Here he ſaith, I have a fine way of Anſwering; for if I be preſt o<g ref="char:EOLhyphen"/>ver-much
+<pb n="8" facs="tcp:30342:8"/>with any point of Law, then I will tell you of my own Au<g ref="char:EOLhyphen"/>thority, that the Law in ſuch Par<g ref="char:EOLhyphen"/>ticulars is clearly altered, though I cannot tell how, nor at what time.</p>
+                     <p n="2">2. If it be a Record that puts me too hard to it, then I conceive the Roll from whence the Deed is written, is miſtaken in ſuch and ſuch words, and miſwrit therein from the Original.</p>
+                     <p n="3">3. If out of any Hiſtory you tell me any thing which I cannot An<g ref="char:EOLhyphen"/>ſwer, then I will not ſuffer the words to be read as they ought to be Printed; but I will fanſie ſuch expreſſions as will beſt ſuit with my turn, and alſo diſparage the ſame Hiſtory, although in thoſe matters I had formerly ſaid I did chiefly follow the ſame.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>Theſe are all nothing but Cavils; and whence theſe proceed, every man may judge.</p>
+                        <p n="1">1. Where do I ſay the Law is al<g ref="char:EOLhyphen"/>tered
+<pb n="9" facs="tcp:30342:8"/>on my own Authority, and do not prove it by other Authority? it is his miſtake, and though I can<g ref="char:EOLhyphen"/>not tell when preciſely, nor perhaps others neither, yet it is plain ſuch particulars are altered, and ſuch alterations are not made in a day, nor all at a time; for they muſt have a long time of common practice through the Nation, before it become a common Law; and at laſt becomes a Law by general con<g ref="char:EOLhyphen"/>ſent and practice by degrees.</p>
+                        <p n="2">2. I never ſay the Roll is miſta<g ref="char:EOLhyphen"/>ken, but where it is miſtaken; and I remember not that I ſay any Roll or Record at all is miſtaken, ſave either that of <hi>(Donarium)</hi> which I conceived was miſ-writ for <hi>(Dota<g ref="char:EOLhyphen"/>rium);</hi> and it is ill chid of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> (as we ſay Proverbially) when he himſelf conceives <hi>(Donarium)</hi> to be there miſ-writ for <hi>(Dovarium) pag.</hi> 13. or elſe that of <hi>Bacon</hi>'s Deed: See my Reaſons in my <hi>Ad<g ref="char:EOLhyphen"/>denda,</hi> pag. 23. for rectification of which, I was promiſed a ſight of the Original, but I could not ob<g ref="char:EOLhyphen"/>tain it.</p>
+                        <pb n="10" facs="tcp:30342:9"/>
+                        <p n="3">3. The third is alſo a great miſ<g ref="char:EOLhyphen"/>take: for firſt, I have not ſeen any thing out of any Hiſtory alledged, but what I have fully anſwered, as to the point in difference; nor do I hinder any words to be read as they ought to be Printed; but when there be plain errours in the Print<g ref="char:EOLhyphen"/>ing, and ſo proved to be errours by comparing ſundry other good Au<g ref="char:EOLhyphen"/>thors to the contrary, as <hi>(Hugh)</hi> Earl of <hi>Cheſter,</hi> for <hi>(Randle)</hi> Earl of <hi>Cheſter,</hi> in the Welſh Hiſtory, <hi>ſub anno</hi> 1142. why may not I ob<g ref="char:EOLhyphen"/>ſerve the errour which Sir <hi>Thomas</hi> would boulſter up by an erroneous Amendment, to ground ſeveral o<g ref="char:EOLhyphen"/>ther groſs errors and miſtakes thereupon? It is moſt certainly a groſs miſtake either in the Printer or the Copy; and not miſtaken for (<hi>Hugh,</hi> Son to the Earl of <hi>Cheſter</hi>), but for (<hi>Randle</hi> Earl of <hi>Chester</hi>):</p>
+                        <p>And then to ſay I diſparage the Welſh Hiſtory, or Dr. <hi>Powel,</hi> is ano<g ref="char:EOLhyphen"/>ther miſ-judging of me: all I ſaid was this,—The Welſh Hiſtory is not exactly compoſed throughout,
+<pb n="11" facs="tcp:30342:9"/>nor proved by good Authority; and as I believe it true in many things, ſo it hath ſome groſſe miſtakes; and ſo are ſome of Dr. <hi>Powels</hi> Notes thereon full of errors, eſpecially in his abſurd Pedegree of the Earls of <hi>Cheſter,</hi> and in ſeveral other things: See my former Reply, <hi>pa.</hi> 94. And I believe every knowing man (who hath peruſed the ſame) will ſay as much: indeed there are few gene<g ref="char:EOLhyphen"/>ral Hiſtories but may have ſome miſtakes, and without diſparage<g ref="char:EOLhyphen"/>ment too to the Author.</p>
+                        <p>Certainly, here are three or four extraordinary Trips of Sir <hi>Thomas. Now there is nothing material here, further to be taken notice of, till we come to his nineth page.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 9. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here Sir <hi>Thomas</hi> ſaith that I miſ-recite his Argument; and that I ſay, that the Lord <hi>Cook</hi> ſaith thoſe words <hi>[in liberum maritagium]</hi> are ſuch words of art, and ſo neceſſarily
+<pb n="12" facs="tcp:30342:10"/>required, as they cannot be (under<g ref="char:EOLhyphen"/>ſtood) by words equipollent: ſo hard it is to get Sir <hi>Peter</hi> either to repeat or underſtand aright.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>
+                           <hi>Parturiunt montes, naſcetur ri<g ref="char:EOLhyphen"/>diculus mus:</hi> He ſaith, it is a hard matter to get me repeat aright; but for the repeating of thoſe very words of the Lord <hi>Cook;</hi> ſee Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Manwarings</hi> Law-Caſes miſta<g ref="char:EOLhyphen"/>ken, <hi>pag.</hi> 3. <hi>pag.</hi> 10. and <hi>pag.</hi> 14. in all which places I have repeated them aright: So it is no hard matter to get me repeat aright; but here in<g ref="char:EOLhyphen"/>deed the word (underſtood) is miſ-writ for (expreſt) <hi>pag.</hi> 4. of my for<g ref="char:EOLhyphen"/>mer Reply; which ſhews it ſelf to be a miſtake in the writing; and the very ſence here, would guide a man of reaſon into a rectification; but Sir <hi>Thomas</hi> will play at ſmall game before he ſit out.</p>
+                        <p>And then he ſaith, I underſtand not aright: why ſo? Becauſe I do not ſay—by words equipollent, or amounting to as much.</p>
+                        <pb n="13" facs="tcp:30342:10"/>
+                        <p>Oh profound and material point! as though equipollent, or amount<g ref="char:EOLhyphen"/>ing to as much, were not the ſame thing; or that there were more in the words (amounting to as much) than in the word (Equipollent): let him ſhew me the difference between them, if he can; ſave only one is a Lattin word, and the other Engliſh: ſo that when I had named the one, the other were not needful to be named.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 10. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, I miſtake very much, when I ſay—that Lands given in <hi>maritagium; Habendum libere &amp; quiete ab omni ſervitio ver<g ref="char:EOLhyphen"/>ſus Capitalem Dominum, de me &amp; haeredibus meis,</hi>—&amp;c. was a good grant in free Marriage, by the words of <hi>Glanvil</hi> in thoſe Ages, and as good as <hi>in liberum maritagium</hi>): Why ſo? becauſe <hi>Glanvil</hi> doth not there, or any where elſe, ſay that Lands may be given in free Marri<g ref="char:EOLhyphen"/>age
+<pb n="14" facs="tcp:30342:11"/>by thoſe, or any other equipol<g ref="char:EOLhyphen"/>lent words, without uſing the words <hi>[in liberum maritagium]:</hi> and unleſs he ſaith this, he ſaith no<g ref="char:EOLhyphen"/>thing for Sir <hi>Peter</hi>'s purpoſe.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>For this ſee <hi>pag.</hi> 54. of my for<g ref="char:EOLhyphen"/>mer Reply, where I have proved it out of <hi>Glanvils</hi> words by ſure conſequence, which Sir <hi>Thomas</hi> hath not yet anſwered: <hi>Sit Liber Index. Glanvil,</hi> lib. 7. cap. 18.</p>
+                        <p>'Tis true, thoſe very words here mentioned by Sir <hi>Thomas,</hi> are not in <hi>Glanvil;</hi> but Lands granted <hi>in maritagium,</hi> free from all Ser<g ref="char:EOLhyphen"/>vice, &amp;c. (ſaith <hi>Glanvil</hi>) was a grant in free Marriage; and by ſure conſequence implyed there out of <hi>Glanvil,</hi> to be the words anſwer<g ref="char:EOLhyphen"/>able to the words <hi>(in liberum mari<g ref="char:EOLhyphen"/>tagium),</hi> which makes clearly for Sir <hi>Peter</hi>'s purpoſe againſt Sir <hi>Tho<g ref="char:EOLhyphen"/>mas;</hi> for ſuch a grant (ſaith <hi>Glan<g ref="char:EOLhyphen"/>vil</hi>) was a grant in free Marriage, without telling us that the words <hi>(in liberum maritagium)</hi> muſt be ne<g ref="char:EOLhyphen"/>ceſſarily
+<pb n="15" facs="tcp:30342:11"/>uſed at all: So that Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> miſtakes himſelf here very much, and not <hi>I.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 12, 13. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he writeth down <hi>Saher de Quencyes</hi> Deed, out of my Hiſtori<g ref="char:EOLhyphen"/>cal Antiquities.</p>
+                     <p>In which Deed (ſaith he, <hi>pag.</hi> 13.) if <hi>Donarium</hi> were there miſ-writ<g ref="char:EOLhyphen"/>ten for <hi>(Doterium),</hi> it would not here ſignifie Marriage, but Dower; and he thinks alſo that the Tran<g ref="char:EOLhyphen"/>ſcriber probably did miſtake <hi>(Do<g ref="char:EOLhyphen"/>narium)</hi> for <hi>Dovarium;</hi> the <hi>n</hi> and <hi>u</hi> being anciently written alike: but he ſaith alſo, he got a friend carefully to examine the ſame in one of the Couchir-books in the Dutchy Office in <hi>Grays-Inn,</hi> and the word is there <hi>Donarium,</hi> with<g ref="char:EOLhyphen"/>out any miſtake at all.</p>
+                     <pb n="16" facs="tcp:30342:12"/>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>It is true, I did intrepret in <hi>libe<g ref="char:EOLhyphen"/>rum Donarium</hi> in that Deed, as meant of a Jointure in my Hiſtorical Antiquities, <hi>pag.</hi> 132. but upon better conſideration I conceived it might be more properly interpret<g ref="char:EOLhyphen"/>ed here, and underſtood for free-marriage; in my former Reply, <hi>pag.</hi> 7, 8. and in my Book, ſtiled <hi>Sir</hi> Thomas Manwarings <hi>Law-Caſes Miſtaken,</hi> pag. 29. for finding <hi>Dos</hi> ſometimes anciently taken for Mar<g ref="char:EOLhyphen"/>riage, and finding the word <hi>(libe<g ref="char:EOLhyphen"/>rum)</hi> added here unto it, I did conjecture it might have been miſ<g ref="char:EOLhyphen"/>written in my Copy <hi>in liberum Do<g ref="char:EOLhyphen"/>narium,</hi> for <hi>in liberum Dotarium:</hi> and ſo all one as to have ſaid <hi>in liberum maritagium;</hi> and the rather for that we find very rarely the word <hi>in liberum donarium</hi> ſo applyed; nor do we uſually ſay Lands are given in free Joynture, but in free Marriage.</p>
+                        <pb n="17" facs="tcp:30342:12"/>
+                        <p>But now it being in the Couchir-book <hi>in liberum Donarium</hi> without miſtake, as Sir <hi>Thomas</hi> tells us, he got a Friend to examine it, it muſt needs be here interpreted for a free gift: for <hi>Saher de Quency</hi> Earl of <hi>Wincheſter,</hi> grants to <hi>Robert de Quency</hi> his Son and Heir four Man<g ref="char:EOLhyphen"/>nours, <hi>ad dandum in liberum Do<g ref="char:EOLhyphen"/>narium Hawiſiae Sorori Comitis Ceſtriae, uxori ejuſdem Roberti.</hi> This was ſoon after the Marriage; for ſhe was now the Wife of <hi>Robert,</hi> and theſe Lands were given for a free gift to <hi>Hawiſe</hi> his Wife, which is all one as to have ſaid for a free gift in Marriage to <hi>Hawiſe;</hi> and a free gift in Marriage, is all one as a gift in Free-marriage: add here<g ref="char:EOLhyphen"/>unto, that thoſe four Mannors, given <hi>in liberum donarium,</hi> as afore<g ref="char:EOLhyphen"/>ſaid, accrewed to the Heires of <hi>Hawiſe,</hi> to wit, to <hi>John Lacy,</hi> Earl of <hi>Lincoln,</hi> in right of <hi>Margaret</hi> his Wife, Daughter and Heir of the ſaid <hi>Robert Quency</hi> &amp; <hi>Hawiſe:</hi> which by Law ought to deſcend up<g ref="char:EOLhyphen"/>on the Heirs of <hi>Hawiſe,</hi> being given
+<pb n="18" facs="tcp:30342:13" rendition="simple:additions"/>in free marriage: Whereunto alſo <hi>Roger de Quency</hi> (who ſucceeded Earl of <hi>Wincheſter,</hi> upon the death of the aforeſaid <hi>Robert de Quency,</hi> his Elder Brother without Iſſue Male) releaſed all his Right unto the Heirs of the ſaid <hi>Margaret:</hi> See my Hiſtorical Antiquities, <hi>pag.</hi> 271. whereas had thoſe Lands been given to <hi>Hawiſe</hi> in Dower or Joyn<g ref="char:EOLhyphen"/>ture only, ſhe could but have en<g ref="char:EOLhyphen"/>joyed them for her ſelf, and not to her Heirs.</p>
+                        <p>But whether is the more proper interpretation thereof in this place, let Learned men judge; I will not contend about it. Yet whereas <hi>pag.</hi> 15. Sir <hi>Thomas</hi> would have the Reader to judge of my Integrity, becauſe I did formerly interpret the words aforeſaid to be underſtood of a Joynture, and now upon more ſerious deliberation conceive the ſame to be meant for a gift in free-marriage, or a free gift in marri<g ref="char:EOLhyphen"/>age, having the word <hi>liberum</hi> joyn<g ref="char:EOLhyphen"/>ed with it: I ſay it is hard to cen<g ref="char:EOLhyphen"/>ſure my integrity for it: for that is
+<pb n="19" facs="tcp:30342:13" rendition="simple:additions"/>well known to all the County where we both do live; I ſhall make no compariſons, for thoſe are odious, and ſavor of arrogancy.</p>
+                        <p>Again, Sir <hi>Thomas</hi> hath com<g ref="char:EOLhyphen"/>mitted another Trip, <hi>pag.</hi> 10. where he expoundeth Mr. <hi>Glanvils</hi> words (when he ſpeaketh of gifts in frank-marriage) <hi>cum aliquâ mulie<g ref="char:EOLhyphen"/>re,</hi> to be meant [with ſome wo<g ref="char:EOLhyphen"/>man]: which words he miſinter<g ref="char:EOLhyphen"/>preteth altogether; for it is there meant [with any Woman] not with ſome Woman: He hath the ſame errour in his Reply to my An<g ref="char:EOLhyphen"/>ſwer, <hi>pag.</hi> 40,</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 16, 17. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, I tell him how he proves by comparing the Age of <hi>Bertred,</hi> that <hi>Agatha</hi> could not be the Daughter of the Second <hi>William de Ferrare;</hi> wherein (ſaith he) I am pittifully miſtaken, for he did goe about no ſuch thing; but he did ſhew <hi>pag.</hi> 3, 4, 5. that <hi>Joane,</hi> Wife
+<pb n="20" facs="tcp:30342:14"/>of <hi>Lewellyn</hi> could not be the ſame <hi>Joan</hi> which King <hi>John</hi> had by <hi>A<g ref="char:EOLhyphen"/>gatha.</hi>
+                     </p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>O pretty Subterfuge! hath he a<g ref="char:EOLhyphen"/>ny proof at all here, that <hi>Joan,</hi> Wife of <hi>Lewellyn</hi> was not the ſame <hi>Joan</hi> which King <hi>John</hi> had by <hi>A<g ref="char:EOLhyphen"/>gatha;</hi> but all his proof there bot<g ref="char:EOLhyphen"/>tomed on the Age of <hi>Bertred,</hi> which could not allow <hi>Agatha</hi> to be the Daughter of the Second <hi>Willi<g ref="char:EOLhyphen"/>am de Ferrars</hi> by <hi>Bertred</hi>'s Daugh<g ref="char:EOLhyphen"/>ter; ſo as to ſuppoſe <hi>Agatha</hi> to be old enough to have Iſſue that <hi>Joan</hi> by King <hi>John,</hi> and that <hi>Joan</hi> to be old enough to be Wife of <hi>Lewel<g ref="char:EOLhyphen"/>lyn,</hi> Anno. 1204. which is a falſe ground taken from <hi>Vincent:</hi> but <hi>Speed</hi> ſaith, <hi>Agatha</hi> was Daughter of <hi>Robert de Ferrars,</hi> and I agree <hi>Vincent</hi> to be miſtaken therein: Let me ſee him prove the Princeſs of <hi>Wales</hi> to be no Daughter of <hi>Aga<g ref="char:EOLhyphen"/>tha</hi> by King <hi>John;</hi> what he ſaith here, is nothing to the purpoſe: See my former Reply, <hi>p.</hi> 18.</p>
+                        <pb n="21" facs="tcp:30342:14"/>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 22. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here (after a long Oration, no<g ref="char:EOLhyphen"/>thing at all material) he tells us— would any man think Sir <hi>Peter</hi> him<g ref="char:EOLhyphen"/>ſelf within a very few lines would be guilty of the like offence, which I unjuſtly charged him withal? and a little after—Sir <hi>Peter</hi> would di<g ref="char:EOLhyphen"/>ſtinguiſh between <hi>maritagium,</hi> and <hi>maritagium Servitio obnoxium;</hi> and ſay <hi>maritagium</hi> is two-fold, but doth not give the members of his diſtinction aright.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>Here are two great Trips more of Sir <hi>Thomas,</hi> for I did neither charge him unjuſtly with that di<g ref="char:EOLhyphen"/>ſtinction, which any man may read in his book, nor am I guilty of the like offence, as he ſaith I am: Shew me, if he can, where I go a<g ref="char:EOLhyphen"/>bout any ſuch a diſtinction as he here mentioneth, or ſay marriage
+<pb n="22" facs="tcp:30342:15"/>is two-fold, and then give the members of my diſtinction ſo ab<g ref="char:EOLhyphen"/>ſurdly as he there hath done; I wonder he is ſo diſingenious either to deny the one or affirm the other: See his Anſwer to my Addenda, <hi>pag.</hi> 7. and my former Reply there<g ref="char:EOLhyphen"/>unto, <hi>pag.</hi> 20, 21. I appeal to all Readers; and yet in the 19th. <hi>pag.</hi> of this Anſwer to my two books, he tells us, it is the want of my under<g ref="char:EOLhyphen"/>ſtanding which cauſeth me to blame him for what he there ſo ſaith, and then runs on in a long harangue to no purpoſe, telling us that <hi>maritagium Servitio obnoxium</hi> is the Elder Brother—<hi>&amp;c.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 24. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, that I indeed do tell him that thoſe Mannors (<hi>Budi<g ref="char:EOLhyphen"/>ford</hi> &amp; <hi>Suttehele</hi>) were given to the ſaid <hi>Lewellyn in libero maritagio:</hi> But the Deed lately belonging to <hi>Somerford Oldfield</hi> Eſquire, doth prove no ſuch thing, but doth only
+<pb n="23" facs="tcp:30342:15"/>prove that the ſaid <hi>Lewellyn</hi> did miſtake himſelf, and did think that they were given him in free-marri<g ref="char:EOLhyphen"/>age, when they were not ſo given.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>Oh fine, a pretty Anſwer indeed! for though in the Deed it be ſaid— <hi>Sicut Dominus Johannes Rex ea illi dedit in libero maritagio</hi>] yet here (ſaith Sir <hi>Thomas</hi>) <hi>Lewellyn</hi> miſ<g ref="char:EOLhyphen"/>takes himſelf, and thought it was ſo given, when it was not: it is not in the Deed <hi>(mihi dedit)</hi> but <hi>(illi dedit),</hi> and by conſequence could not be miſtaken by <hi>Lewellyn</hi> only, if it were miſtaken; but by all o<g ref="char:EOLhyphen"/>thers alſo then preſent, and eſpeci<g ref="char:EOLhyphen"/>ally by the Writer of the ſaid Deed: But whether was <hi>Lewellyn,</hi> and the Clerk that made the Deed, and all others then preſent, more like to know the truth hereof, then Sir <hi>Thomas</hi> now living 450. years after that Deed made: Every man may ſee the weakneſs of this Anſwer. Sure this may ſtand for a
+<pb n="24" facs="tcp:30342:16"/>Trip with a derry-down, but he hath ſo many of them, that I ſhall forget to count them all. Ere while <hi>pag.</hi> 3. when I am put hard to it, (ſaith he) then I ſay the Roll is miſ-writ: Very well; but here he denys the very words of the Deed, and avers againſt a Record, and yet gives no reaſon for it neither.</p>
+                        <p>What follows <hi>pag.</hi> 26, 27, 28, 29. are all tedious things accor<g ref="char:EOLhyphen"/>ding to his cuſtom, and little or no<g ref="char:EOLhyphen"/>thing to the point.</p>
+                        <p>But <hi>pag.</hi> 26. and in other places elſe-where, when any thing is ſaid by him, either not true, or not to the point, then it is my ignorance that runs me upon miſtakes, that I cannot fathom what he or the Lawyers do ſay.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <p n="1">1. He ſaith, <hi>pag.</hi> 26. that if a man have Land given in free marri<g ref="char:EOLhyphen"/>age with a Wife, he hath only <hi>Cuſto<g ref="char:EOLhyphen"/>diam terrae cum uxore,</hi> and there<g ref="char:EOLhyphen"/>fore cannot diſpoſe of thoſe Lands to any Perſon from the right Heir.</p>
+                     <p n="2">2. So <hi>pag.</hi> 28, 29. he tell us that the Writ for the Livery of <hi>Budiford</hi>
+                        <pb n="25" facs="tcp:30342:16"/>to <hi>Lewellyn</hi> runs in theſe words,— <hi>quod Johannes Rex ei dedit in ma<g ref="char:EOLhyphen"/>ritagium cum Johanna,</hi> &amp;c. and (ſaith he) Livery would be need<g ref="char:EOLhyphen"/>leſs in a gift of free-marriage, and therefore concludes, it muſt be on<g ref="char:EOLhyphen"/>ly <hi>in maritagio</hi> given, not <hi>in libero maritagio;</hi> and ſo <hi>Lewellyn</hi>'s Deed to <hi>John Scot</hi> is miſtaken; and be it what it will, it will work nothing in this caſe.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p n="1">1. To the firſt: For what he ſaith, that according to the ancient Lawyers in thoſe elder Ages, that Lands given with a Wife in free-marriage to a man, the Husband hath only the cuſtody of ſuch Lands with his Wife, and therefore can<g ref="char:EOLhyphen"/>not diſpoſe of any of thoſe Lands to any perſon from the right Heir by ſuch a Wife.</p>
+                        <p>Yet we ſee here, that <hi>Lewellyn</hi> did grant away <hi>de facto</hi> to <hi>John</hi> the <hi>Scot, Budiford</hi> in free-marriage with <hi>Helen</hi> his Daughter, about
+<pb n="26" facs="tcp:30342:17"/>1222. which Lands King <hi>John</hi> gave unto him in free-marriage, with <hi>Joan</hi> his Daughter, Mother of the ſaid <hi>Helen,</hi> by what right we can<g ref="char:EOLhyphen"/>not now tell, whether by the con<g ref="char:EOLhyphen"/>ſent of the right Heir by <hi>Joan,</hi> or other compenſation elſe-where gi<g ref="char:EOLhyphen"/>ven; but certainly it was ſo given, and <hi>Helen</hi> was right Heir to her Mother <hi>Joan,</hi> after the death of <hi>David</hi> her Brother, without Iſſue.</p>
+                        <p n="2">2. To the ſecond: As to the Writ of Livery concerning <hi>Budi<g ref="char:EOLhyphen"/>ford,</hi> running only <hi>in maritagium,</hi> it hinders nothing but that the grant to <hi>Lewellyn</hi> of <hi>Budiford</hi> might be <hi>in libero maritagio;</hi> as we ſee that of the Caſtle of <hi>Elleſ<g ref="char:EOLhyphen"/>mere,</hi> granted alſo to <hi>Lewellyn</hi> by King <hi>John,</hi> with his ſaid Daughter <hi>Joan in libero maritagio,</hi> by expreſs words: See the Deed at large in my Advertiſement to the Reader, at the end of my Book, ſtiled Sir <hi>Thomas Manwarings</hi> Law-Caſes Miſtaken; and yet the Livery of <hi>Elleſmere</hi> ſaith only—<hi>quod dedimus dilecto filio noſtro Lewelino in ma<g ref="char:EOLhyphen"/>ritagio
+<pb n="27" facs="tcp:30342:17"/>filiae noſtrae:</hi> See Sir <hi>Thomas Manwarings</hi> Anſwer to my <hi>Ad<g ref="char:EOLhyphen"/>denda,</hi> pag. 6. Now <hi>maritagio</hi> doth as well include free marriage, as not free-marriage, according as the Deed runneth.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 30. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, he thinks he can make good what he ſaid of my Par<g ref="char:EOLhyphen"/>tiality (which yet he will not ſpeak publickly) and that I will not be excuſed by that contradiction of mine; to wit, That admit I were never ſo much partial in what he chargeth me with (yet I hope what I have written, he finds it impartial to all, ſo far as I go or know) would this cure his uncivil expreſſions to<g ref="char:EOLhyphen"/>wards me in another thing? but he leaves out theſe laſt words of mine.</p>
+                     <pb n="28" facs="tcp:30342:18"/>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>Let him find out a contradiction here if he can; but all his ſhifts and cavils cannot prevail to cover the truth concerning <hi>Amicia,</hi> and which with all his art he cannot ſo<g ref="char:EOLhyphen"/>lidly refute. So having done with this Trip, I proceed to the reſt.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 32, 33. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Now he would fain juſtifie a for<g ref="char:EOLhyphen"/>mer error of his, and ſhews me a Deed out of my own Book, <hi>pag.</hi> 143. (from which Book he fetcheth ma<g ref="char:EOLhyphen"/>ny things, but nothing will help his cauſe) In which Deed, <hi>Randal,</hi> Duke of <hi>Brittain,</hi> &amp; Earl of <hi>Cheſter</hi> granted to <hi>Andrew,</hi> Son of <hi>Mabil,</hi> &amp; to his Heirs, ſundry liberties, <hi>&amp;c.</hi> among which, it is there ſaid—<hi>nec de querelâ aliquiâ in civitate Ceſtriae, vel extrâ, reſpondeant in praeſentiâ meâ, vel ſummi, Juſtitiae mei:</hi> * up<g ref="char:EOLhyphen"/>on which he puts in the Margent a
+<pb n="29" facs="tcp:30342:18"/>ſpecial mark thus (* Note): and after he ſaith, Now let any Perſon judge whether there was not a chief Juſtice of <hi>Chester</hi> in thoſe Elder Ages.</p>
+                     <p>But before <hi>pag.</hi> 32. he tells us moſt learnedly, that the word <hi>Juſti<g ref="char:EOLhyphen"/>tia</hi> here, is of the <hi>Maſculine Gen<g ref="char:EOLhyphen"/>der,</hi> and gives us a rule out of the <hi>Grammer</hi> for it—</p>
+                     <p>
+                        <hi>Maſcula nomina in a dicuntur multa Virorum,</hi> and was ſometimes in thoſe Elder Ages uſed for the Judge or Juſtice of <hi>Cheſter,</hi> which he believes I cannot deny.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>No indeed, I cannot deny it; but why uſed for the Judge or Juſtice of <hi>Chester,</hi> more than other Judges in thoſe Ages? Surely it was Anciently uſed for any of our Judges: <hi>Glanvil</hi> mentioning the form of Original Writs, hath it thus—<hi>quod ſit coram me vel Juſti<g ref="char:EOLhyphen"/>tiis meis:</hi> So alſo <hi>Hoveden,</hi> and o<g ref="char:EOLhyphen"/>ther of our ancient Hiſtorians uſed
+<pb n="30" facs="tcp:30342:19"/>
+                           <hi>Capitalis Justitia Angliae</hi> for the chief Juſtice of <hi>England:</hi> But <hi>Bracton</hi> compiling a Book of the body of our Law in Latin, under King <hi>Henry</hi> the third, he changed the word <hi>(Juſtitiis)</hi> into <hi>(Juſti<g ref="char:EOLhyphen"/>ciariis);</hi> and ſetteth down the writs accordingly—<hi>coram Juſti<g ref="char:EOLhyphen"/>ciariis nostris:</hi> Since which time, in all Writs and Commiſſions upon Record, they have been ſtiled <hi>Juſti<g ref="char:EOLhyphen"/>tiarij:</hi> Lamberds Eirenarcha, <hi>lib.</hi> 1. <hi>cap.</hi> 1.</p>
+                        <p>And then for his profound Ob<g ref="char:EOLhyphen"/>ſervation, that <hi>Juſtitia</hi> is here of the Maſculine Gender, according to the Rule—</p>
+                        <p>
+                           <hi>Maſcula nomina in</hi> (a) <hi>dicuntur multa virorum.</hi> Yet he hath left out three or four of the next words following, which might fitly have been added to that book of his— <hi>Ut ſcriba, aſſecla, ſcurra, &amp; rabula.</hi> But now for the words of the Deed: It is certain, that here Earl <hi>Randle</hi> calls the Judge of <hi>Cheſter</hi>— my chef Juſtice; and the words of the Deed before-mentioned, I con<g ref="char:EOLhyphen"/>ceive
+<pb n="31" facs="tcp:30342:19"/>runs thus in <hi>Engliſh</hi>—That the ſaid <hi>Andrew</hi> and his Heirs ſhould not Anſwer concerning any Suit (or Complaint) entered in the City of <hi>Chester,</hi> or without, ei<g ref="char:EOLhyphen"/>ther in my preſence, or in the pre<g ref="char:EOLhyphen"/>ſence of my chief Juſtice.</p>
+                        <p>And it is a rare precedent (with<g ref="char:EOLhyphen"/>out a Parallel, I believe in this kind) that the Earl here calleth him— my chief Juſtice; undoubtedly for ſome reaſon here intended, and but accidentally neither; poſſibly in diſtinction from the Judges of his inferiour Courts: for certainly they were never called chief Juſtices of <hi>Chester</hi> in thoſe Ages by common appellation, as at this day they be called; neither then were there more Judges of <hi>Chester</hi> than one at a time, nor doth this example prove it otherwiſe, nor is the Judge here ſtiled—Chief Juſtice of <hi>Cheſter;</hi> only the Earl here calls him—my Chief Juſtice, ſpeaking as it were in his own perſon; nor will this at all excuſe the errour and vain glory of Sir <hi>Thomas,</hi> ſpeaking
+<pb n="32" facs="tcp:30342:20"/>ſo of <hi>Rafe Manwaring,</hi> and call<g ref="char:EOLhyphen"/>ing him as at this day we call the Senior Judge of <hi>Cheſter;</hi> it was a Trip, it overſlipt him; but he will ſeldom acknowledge any errour.</p>
+                        <p>Again, This Deed was made be<g ref="char:EOLhyphen"/>tween the year 1188. and 1200. for all that while <hi>Randle,</hi> Earl of <hi>Cheſter</hi> aſſumed the Title of Duke of <hi>Little-Brittain</hi> in <hi>France,</hi> which Title we ſee he had given to him in this Deed: But it cannot be firm<g ref="char:EOLhyphen"/>ly collected that <hi>Ralf Manwaring</hi> was Judge of <hi>Cheſter</hi> at that very time when this Deed was made; for he is there ſubſcribed by the name of <hi>Ralf Manwaring</hi> only, not ſtiled <hi>Radulfo Manwaring Justici<g ref="char:EOLhyphen"/>ario Ceſtriae</hi> there, as he is in many other Deeds, and as he and all o<g ref="char:EOLhyphen"/>thers were uſually ſtiled, while they were Judges; and what Sir <hi>Thomas</hi> would ſtretch to have it ſo out of my Hiſtorical Antiquities, it will not certainly follow out of my Notes, that <hi>Ralf Manwaring</hi> was Judge of <hi>Cheſter</hi> all that time, from 1188. till <hi>Philip Orreby</hi> was Judge there;
+<pb n="33" facs="tcp:30342:20"/>nor eſpecially all the time, while <hi>Randle</hi> was Duke of <hi>Brittain;</hi> and therefore Sir <hi>Thomas</hi> cannot cer<g ref="char:EOLhyphen"/>tainly conclude (as he doth, <hi>pag.</hi> 34.) that <hi>Rafe Manwaring</hi> was Judge at that very time, when that Deed was made.</p>
+                        <p>
+                           <hi>Pag.</hi> 35. to <hi>pag.</hi> 41. are things not worthy my taking notice of, nor pertinent to the main point, and have all formerly in my other books been Anſwered by me over and over again, and therefore I ſhall here paſs them by; although, if I would cavil (as Sir <hi>Thomas</hi> doth) at eve<g ref="char:EOLhyphen"/>ry pidling thing, I could find many errors therein.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 43. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, he is very confi<g ref="char:EOLhyphen"/>dent Sir <hi>Peter</hi> cannot prove, that perſons who were under age, did then uſe to joyn with their Mothers, and to give away their Lands of Inheritance.</p>
+                     <pb n="34" facs="tcp:30342:21"/>
+                     <p n="2">2. And then after a long ha<g ref="char:EOLhyphen"/>rangue, and writing down of Mr. <hi>Sel<g ref="char:EOLhyphen"/>den</hi>'s words, which I had before cited, he ſaith <hi>pag.</hi> 45. (which is all the Anſwer he gives to my Pre<g ref="char:EOLhyphen"/>cedent that is material) that Earl <hi>Richard</hi> confirmed the Hyde of Land which <hi>Droco de Andeleia</hi> had given to <hi>Abbington-Church;</hi> and a little after, addeth—what is this to the Caſe of <hi>Hugh Cyvelios,</hi> who did paſs away <hi>Stivinghale</hi> to the Biſhop of <hi>Chester,</hi> and his Suc<g ref="char:EOLhyphen"/>ceſſors for ever?</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>I ſay it is the very ſelf-ſame Caſe, one as the other: for Earl <hi>Richard,</hi> and Earl <hi>Hugh</hi> do both joyn with their reſpective Mothers, both un<g ref="char:EOLhyphen"/>der Age; but now forſooth the dif<g ref="char:EOLhyphen"/>ference he would put is this, that the one confirms another man's grant, the other grants away certain Lands for ever I would fain know if a grant of Lands for ever by one under Age, and joyning with his
+<pb n="35" facs="tcp:30342:21"/>Mother, be invalid; why a confir<g ref="char:EOLhyphen"/>mation of Lands, by one under age alſo, and joyning with his Mother, would not be invalid likewiſe; but this confirmation of Lands for ever held firm, and the Lands continued to the Church of <hi>Abbington</hi> accor<g ref="char:EOLhyphen"/>dingly.</p>
+                        <p>So we ſee how he doubts not but what is there ſaid, will give all men ſatisfaction, without rendring any Reaſon at all of the difference in thoſe two Caſes.</p>
+                        <p>And I am very confident Earl <hi>Hugh</hi> could not be twelve years old when he joyned with his Mother in the Grant of <hi>Stivinghale;</hi> and if the grant were made about the year 1156. to wit, about two or three years after his Fathers death, I ra<g ref="char:EOLhyphen"/>ther think that Earl <hi>Hugh</hi> was not above eight years old when he joyn<g ref="char:EOLhyphen"/>ed in that Grant.</p>
+                        <p>But certainly Sir <hi>Thomas</hi> is far wide when he ſaith, <hi>pag.</hi> 45. that Earl <hi>Hugh</hi> was old enough to take <hi>Melyeneth-Caſtle,</hi> anno. 1142. or that he was 23. years old, <hi>Anno.</hi>
+                           <pb n="36" facs="tcp:30342:22"/>1153. in which year his Father dy<g ref="char:EOLhyphen"/>ed: moſt abſurd, and without any ground at all.</p>
+                        <p>But ſince I writ this ſecond Re<g ref="char:EOLhyphen"/>ply, I have received a ſure Record that proves Earl <hi>Hugh</hi> could not be above three or four years old at the death of his Father, <hi>Anno</hi> 1153. and will lay aſleep for ever all thoſe falſe ſuppoſitions of Earl <hi>Hugh's</hi> Age; whereof ſee more in my <hi>Pe<g ref="char:EOLhyphen"/>roratio ad Lectorem,</hi> at the end of this my ſecond Reply.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 46. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he tells the Reader, that I gave him a Pedegree of the Barons <hi>de Monte alto:</hi> In which I make the firſt <hi>Robert de Monte alto</hi> (who I ſaid lived in King <hi>Stephen</hi>'s time) to have Iſſue, two Sons, <hi>Rafe</hi> and <hi>Robert,</hi> who were afterwards ſuc<g ref="char:EOLhyphen"/>ceſſively Stewards of <hi>Cheſhire;</hi> all which (ſaith he) is certainly true: [I could wiſh he would as ingeni<g ref="char:EOLhyphen"/>ouſly confeſs all other truths al<g ref="char:EOLhyphen"/>ledged
+<pb n="37" facs="tcp:30342:22"/>by me]; and then he writ<g ref="char:EOLhyphen"/>eth out a Deed of <hi>Hugh Cyvelioc,</hi> Earl of <hi>Chester,</hi> out of my Hiſtori<g ref="char:EOLhyphen"/>cal Antiquities; whereunto <hi>Rober<g ref="char:EOLhyphen"/>tus Dapifer de Monte-alto</hi> was a Witneſs.</p>
+                     <p n="1">1. And then <hi>pag.</hi> 48. he ſaith, this muſt needs be the firſt <hi>Robert de Monte-alto:</hi> and if this Deed of Earl <hi>Hugh</hi> was made immediately before the death of this <hi>Robert,</hi> then Earl <hi>Hugh</hi> was a great deal elder than his Wife <hi>Bertred:</hi> (why ſo?) For (ſaith he) though the ſaid <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> did live ſomething longer than Sir <hi>Peter</hi> doth take notice of, yet he thinks it cannot be proved that he was living any conſiderable time after <hi>Euſtace</hi> (who was Witneſs to the Grant of <hi>Stivinghale</hi>): and he knows no reaſon why we ſhould conclude <hi>Euſtace</hi> was ſlain immedi<g ref="char:EOLhyphen"/>ately after he was a Witneſs to the other Deed, or that this <hi>Robert</hi> dy<g ref="char:EOLhyphen"/>ed preſently after he was a Witneſs to this Deed.</p>
+                     <p n="2">2. He ſaith, <hi>pag.</hi> 49. that he thinks it will appear that this Deed
+<pb n="38" facs="tcp:30342:23"/>was made in King <hi>Stephen</hi>'s time; for had it been made when <hi>Henry</hi> the Second was King, it would not have been here ſaid—<hi>ſicut fuit tempore Henrici Regis;</hi> but <hi>ſicut fuit tempore Henrici Primi;</hi> or elſe here would have been ſome other words uſed, to diſtinguiſh King <hi>Henry</hi> the firſt from the then King.</p>
+                     <p><!--remove-->Pag. 49. Now King <hi>Stephen</hi> dy<g ref="char:EOLhyphen"/>ing, 1154. and <hi>Bertred</hi> not born till 1157. it will from this Deed be clear, that if the ſaid <hi>Hugh</hi> had ſealed the other Deed immediate<g ref="char:EOLhyphen"/>ly before King <hi>Stephen</hi> dyed, yet Earl <hi>Hugh</hi> would be at the leaſt 24. years older than <hi>Bertred</hi> his Wife.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>Is not here a long Proſe of his running all upon ifs and ands, with<g ref="char:EOLhyphen"/>out the leaſt ground of truth?</p>
+                        <p n="1">1. To the firſt: I do remember that I have ſeen ſome proof that the firſt <hi>Robert de Monte-alto</hi> (as he calls him) was living 17. <hi>Stephani<g ref="char:punc">▪</g>
+                           </hi>
+                           <pb n="39" facs="tcp:30342:23"/>what then? why ſhould we con<g ref="char:EOLhyphen"/>clude (ſaith he) that <hi>Euſtace</hi> was ſlain immediately after he was a Witneſs to the one Deed, or that <hi>Robert</hi> dyed preſently after he was a Witneſs to this other Deed?</p>
+                        <p>Is not here pittiful weak reaſons to bottom on? we find <hi>Euſtace</hi> ſlain <hi>Anno.</hi> 1157. So <hi>Stow,</hi> and other Hiſtorians: as to <hi>Robert de Monte<g ref="char:EOLhyphen"/>alto</hi> aforeſaid, I conceive he ſur<g ref="char:EOLhyphen"/>vived <hi>Hugh Cyvelioc: I</hi> have not yet ſeen any thing to induce me to think he dyed before Earl <hi>Hugh;</hi> and this Deed of Earl <hi>Hugh</hi> to the Nuns of <hi>Bolinton, I</hi> believe was made far in the Raign of King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the Second, nor can he give any reaſon at all to the contrary, and we find not <hi>Rafe de Monte-alto</hi> a Wit<g ref="char:EOLhyphen"/>neſs, till <hi>Randle Blundevil</hi>'s time, and that muſt be either in King <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> the Firſt's Raign, or towards the very end of <hi>Henry</hi> the Second at ſooneſt.</p>
+                        <p n="2">2. To the ſecond: Let him prove this Deed to be made in King <hi>Ste<g ref="char:EOLhyphen"/>phen</hi>'s time, and I will burn my
+<pb n="40" facs="tcp:30342:24" rendition="simple:additions"/>book: as to his reaſon of diſtin<g ref="char:EOLhyphen"/>guiſhing of one King <hi>Henry</hi> from a<g ref="char:EOLhyphen"/>nother, how many times do we find mention of the <hi>Henrys</hi> in old Char<g ref="char:EOLhyphen"/>ters, without diſtinguiſhing at all? Somtimes they are diſtinguiſhed, and ſometimes not; but not adding the word of <hi>Henrici Regis nunc,</hi> ſhews clearly it is meant of <hi>Hen.</hi> 1.</p>
+                        <p n="3">3. To the third: As he proves nothing from the Deed, nor when it was made, ſo his ifs ſignifie nothing; for Earl <hi>Hugh</hi> was certainly a Child under age, when he joyned with his Mother in the Deed of <hi>Stiving<g ref="char:EOLhyphen"/>hale.</hi>
+                        </p>
+                        <p>And his ifs are very pretty, if Earl <hi>Hugh</hi> made this Deed to the Nuns of <hi>Bolinton,</hi> immediately be<g ref="char:EOLhyphen"/>fore the death of <hi>Robert de Monte<g ref="char:EOLhyphen"/>alto</hi> aforeſaid; and then you muſt take his other (if) too—if this Deed was made in King <hi>Ste<g ref="char:EOLhyphen"/>phen</hi>'s time, and then you muſt take his third (if) too— if <hi>Robert de Monte-alto</hi> dyed ſoon after King <hi>Stephen:</hi> what then? why then
+<pb n="41" facs="tcp:30342:24"/>Earl <hi>Hugh</hi> muſt be a great deal older, at leaſt 24. years older than <hi>Bertred</hi> his Wife.</p>
+                        <p>But if theſe (ifs) be all falſe ſup<g ref="char:EOLhyphen"/>poſitions, and if Earl <hi>Hugh</hi> did make this Deed towards the middle of the Raign of <hi>Henry</hi> the Second, and if <hi>Robert de monte-alto</hi> out<g ref="char:EOLhyphen"/>lived Earl <hi>Hugh,</hi> (all which are more reaſonable to imagine than the other ifs): what then? We may then conclude Earl <hi>Hugh</hi> was not near ſo much older than <hi>Bertred</hi> his Wife, as Sir <hi>Thomas</hi> would ſuppoſe him: See what ſtuff he here pro<g ref="char:EOLhyphen"/>duceth to prove nothing.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 49. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he ſaith, that whereas I pre<g ref="char:EOLhyphen"/>tend to have ſhewed that Earl <hi>Hugh</hi> could neither be ſo old as he would ſuppoſe him, nor yet that the ſaid Earl was born in the year of Chriſt, 1142. Sir <hi>Thomas</hi> Anſwereth, that any man who can but count 20. to wit, how long it is from 1109. to
+<pb n="42" facs="tcp:30342:25"/>1129. or from 1110. to 1130. if he looks on his <hi>Defence of Amicia, pag.</hi> 51. and on his Reply, <hi>pag.</hi> 61. may find that <hi>Hugh Cyvelioc</hi> might be older than he ſaith.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>But whoſoever views his Compu<g ref="char:EOLhyphen"/>tation in thoſe places, will find the ſame very wilde: every ſuppoſition upon the utmoſt poſſibility; and as here, ſo there, he goes all upon (ifs), which cannot encline any judicious man to a belief; &amp; here he concludes too, but upon a bare poſſibility, That Earl <hi>Hugh</hi> might be older than he now ſaith; that is, at leaſt 24. years older than <hi>Bertred</hi> his Wife, which is certainly a great deceit of the Reader, to encline a belief that a thing is ſo, becauſe it is poſſible to be ſo: Doth he any where prove ſubſtantially that Earl <hi>Hugh</hi> was ſo much older than his Wife, more than what may be very ordinary with other men in the like Caſe, or reaſonably to ſuppoſe he had a for<g ref="char:EOLhyphen"/>mer
+<pb n="43" facs="tcp:30342:25"/>Wife? Shew me that if he can: I am ſure it cannot be proved; ſee my Anſwer to his defence of <hi>Ami<g ref="char:EOLhyphen"/>cia,</hi> pag. 48, 49. It appears clear<g ref="char:EOLhyphen"/>ly by the Record in the Exchequor at <hi>Westminſter,</hi> that Earl <hi>Hugh</hi> was but ſix years older than <hi>Bertrey,</hi> or thereabout, which daſheth out all his Ifs for ever: See more hereof in my <hi>Peroratio ad Lectorem,</hi> at the end of this my ſecond Reply.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 50. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here he knocks me dead, and thinks now he proves <hi>Amicia</hi> no Baſtard for certain,—for he doubts I am no good Arithmetician, be<g ref="char:EOLhyphen"/>cauſe in my Hiſtorical Antiquities, <hi>pag.</hi> 137. I ſaid I was eight years older than my Wife, and he hath taken great pains to ſearch out the difference of our Ages, and finds I am not much above ſix years older than my Wife.</p>
+                     <pb n="44" facs="tcp:30342:26"/>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>It is true, I there ſaid ſo, ſpeak<g ref="char:EOLhyphen"/>ing curſorily and over-haſtily with<g ref="char:EOLhyphen"/>out due examination; for I then conceived ſhe had been born in the eighth year of my Age; but it ap<g ref="char:EOLhyphen"/>pears now ſhe was born in the ſea<g ref="char:EOLhyphen"/>venth year of my Age; ſo that I am by exact account only ſix years and two moneth, and about two weeks older than my Wife.</p>
+                        <p>But what is all this to <hi>Amicia?</hi> The Reader may ſee how he makes it his buſineſs to catch and carp at every thing material or not mate<g ref="char:EOLhyphen"/>rial.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 51, to pag. 60. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>In all this, there is little or no<g ref="char:EOLhyphen"/>thing material to the main point; but he ſpends much time in compa<g ref="char:EOLhyphen"/>ring ſundry ancient Authors, to ſhew that <hi>Matthew Paris</hi> is miſ<g ref="char:EOLhyphen"/>printed in the place urged by me
+<pb n="45" facs="tcp:30342:26"/>(to wit, in the Edition put out by Doctor <hi>Wats,</hi> 1640. <hi>pag.</hi> 79.) where he ſaith <hi>(William) Mandeveyle</hi> was taken Priſoner at Saint <hi>Albons, ſub</hi> anno. 1142. for <hi>(Geffrey) Mandeveyle.</hi>
+                     </p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>I will never excuſe an errour, nor deny a truth: I would I could ſay as much of Sir <hi>Thomas:</hi> indeed it is much that this very word ſhould be miſ-printed above other words in <hi>Matthew Paris:</hi> I believe neither Sir <hi>Thomas,</hi> nor any other ſcarcely, upon ſuch an accidental buſineſs could have ſuſpected it to be ſo, having lighted upon the place by chance, elſe I ſhould have made a ſtricter enquiry; but it had reaſon to put him upon an enquiry.</p>
+                        <p>Yet where he ſaith, <hi>pag.</hi> 59. that I dealt deceitfully herein, and that I did it purpoſely: This is another Trip of Sir <hi>Thomas;</hi> for had I then known it to be miſ-printed, I would
+<pb n="46" facs="tcp:30342:27" rendition="simple:additions"/>never have urged it, at leaſt without a Note upon it.</p>
+                        <p>However the miſ-printing of <hi>(Hugh)</hi> Earl of <hi>Cheſter</hi> for <hi>(Randle)</hi> in the Welſh Hiſtory, <hi>pag.</hi> 197. holds firm for ever: and Sir <hi>Thomas</hi> confeſſeth it miſ-printed in this his Anſwer, <hi>pag.</hi> 52. very pro<g ref="char:EOLhyphen"/>bably in the latter Copies, the let<g ref="char:EOLhyphen"/>ter <hi>(R)</hi> ſtanding for a word in the Original book, might be miſ-writ<g ref="char:EOLhyphen"/>ten (♄) in the Copy; which was ſuppoſed to be <hi>Hugh,</hi> or elſe for certain the Original was miſtaken.</p>
+                        <p>But for all this, Sir <hi>Thomas</hi> is ſo far from an ingenious Confeſſion herein, that he will juſtifie his ab<g ref="char:EOLhyphen"/>ſurd errour of computing Earl <hi>Hugh</hi> to be 41. years old when he married <hi>Bertred;</hi> &amp; this he grounds upon the <hi>Errata</hi> at the end of Do<g ref="char:EOLhyphen"/>ctor <hi>Powels</hi> Notes on the Welſh-Hiſtory aforeſaid, where it is ſaid, we muſt read—<hi>pag.</hi> 197. <hi>line</hi> 16. <hi>Hugh</hi> Son to the Earl of <hi>Cheſter.</hi>
+                        </p>
+                        <p>Which amendment is certainly as far from the truth, as that alrea<g ref="char:EOLhyphen"/>dy Printed, and it is very queſtion<g ref="char:EOLhyphen"/>able
+<pb n="47" facs="tcp:30342:27"/>whether the ſaid Earl <hi>Hugh</hi> e<g ref="char:EOLhyphen"/>ver lived to be 40. years old, for he dyed <hi>Anno Domini,</hi> 1181. and ſup<g ref="char:EOLhyphen"/>poſe we, that he was eight years old when his Father dyed <hi>Scilicet,</hi> 1153. (which I believe is as much as by reaſonable account any indifferent perſon can well judge him ſo to be) yet would Earl <hi>Hugh</hi> be but 36. years old when he dyed, <hi>Anno ſci<g ref="char:EOLhyphen"/>licet</hi> 1181. and if he were twelve years old at the death of his Father (which I am confident can never be proved by good Authority) yet would Earl <hi>Hugh</hi> be but 40. years old when he dyed: See what a ſhift Sir <hi>Thomas</hi> would now make, but to ſuppoſe Earl <hi>Hugh</hi> to have a former Wife, which certainly he never had; but it appears now by a Record, that he dyed about the Age of 32.</p>
+                        <p>Again, Sir <hi>Thomas</hi> ſaith, <hi>pag.</hi> 51. that I go about to diſparage Doctor <hi>Powel</hi> all I can, and that I will not ſuffer the Weſh Hiſtory to be read, as it ſhould have been Printed; as alſo <hi>pag.</hi> 52. that I will now diſpa<g ref="char:EOLhyphen"/>rage the ſaid Hiſtory, although in
+<pb n="48" facs="tcp:30342:28"/>my Hiſtorical Antiquities touching the Kings of <hi>Wales, I</hi> did chiefly follow the ſame:</p>
+                        <p>This is another unkind reflecti<g ref="char:EOLhyphen"/>on: <hi>Sit liber Judex,</hi>
+                           <note place="margin">See <hi>page</hi> ioii. <hi>ſupra.</hi>
+                           </note> pag. 94. of my former Reply; my words are theſe—As I believe it [that is the Welſh-Hiſtory] to be true in many things, ſo it hath alſo ſome groſs miſtakes; nor is it at all proved by good Authority, or ex<g ref="char:EOLhyphen"/>actly compoſed through out; nor ſhall you therein from the begin<g ref="char:EOLhyphen"/>ning find all the Wives, Children, and Baſtards of the Ancient Kings and Princes of <hi>Wales</hi> clearly Re<g ref="char:EOLhyphen"/>corded; and ſo are Doctor <hi>Powels</hi> Notes thereon full of Errors, and eſpecially in his abſurd Pedegree of the Earls of <hi>Cheſter,</hi> and in ſeveral other things.</p>
+                        <p>Here is nothing but what every knowing man (who doth ſeriouſly peruſe the ſame) will acknowledg to be true; and ſome miſtakes may be, and are in the writings of very Learned men, and yet no great
+<pb n="49" facs="tcp:30342:28"/>diſparagement neither: and I do confeſs alſo, that I followed the Welſh-Hiſtory in the Princes of <hi>Wales,</hi> for I had no better, nor o<g ref="char:EOLhyphen"/>ther to follow.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 60. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Having now concluded his An<g ref="char:EOLhyphen"/>ſwer to my former Book, he tells us that in my Latine Epiſtle to the Judges (which he ſuppoſeth to be mine, though I vouchſafe not to ſet mine name thereto) I ſaid he was the firſt Inſtigator of this Con<g ref="char:EOLhyphen"/>troverſie; but whether that be ſo or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o, he refers the Reader to his E<g ref="char:EOLhyphen"/>piſtle before his <hi>Defence of Amicia,</hi> and to the ſecond and third pages of his Reply.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>But what Sir <hi>Thomas</hi> ſaith there, was not the firſt time of this Con<g ref="char:EOLhyphen"/>troverſie between us: For he ſaith in that Epiſtle, that if I would have
+<pb n="50" facs="tcp:30342:29"/>delivered what I did conceit about <hi>Amicia,</hi> as an uncertainty only, then I knew he would have reſted ſa<g ref="char:EOLhyphen"/>tisfied with the judgment of thoſe many knowing perſons, who diſ<g ref="char:EOLhyphen"/>ſented from me in opinion there<g ref="char:EOLhyphen"/>in.</p>
+                        <p>But this was a little before my Hiſtorical Antiquities were Printed; nay he came to <hi>Tabley</hi> 
+                           <note n="†" place="margin">About 1672.</note> alſo, purpoſely to de<g ref="char:EOLhyphen"/>ſire me (hearing then that my Book was about to be Printed) that I would put <hi>A<g ref="char:EOLhyphen"/>micia</hi> under the Title of the doubt<g ref="char:EOLhyphen"/>ful Iſſue of Earl <hi>Hugh;</hi> when I told him that I thought it not ſit to put down in my book any ſuch third title of doubtful Iſſue, for ſhe muſt certainly be either lawful or unlaw<g ref="char:EOLhyphen"/>ful, which method I had obſerved in the reſt. I told him alſo that it was not at all doubtful unto me, for in my judgment ſhe was certainly a Baſtard: And then he ſaid, if I did place her under the unlawful Iſſue of Earl <hi>Hugh,</hi> he would write a<g ref="char:EOLhyphen"/>gainſt it, which afterwards he did
+<pb n="51" facs="tcp:30342:29"/>and I believe it had been as good to have let it alone.</p>
+                        <p>But before this, <note n="†" place="margin">1664 Alſo 1672.</note> we had long entercourſe (ſome years before) by Papers be<g ref="char:EOLhyphen"/>tween us upon this Contro<g ref="char:EOLhyphen"/>verſie, which Papers I have yet by me; and which (when my book was in Printing) he deſired I would not print any of them without his conſent, and I promiſed I would not, and I kept my word with him; and had it not been for thoſe paſ<g ref="char:EOLhyphen"/>ſages betwixt us, I had not ſaid near ſo much of it in my book as I did, and ſo much for this. See my An<g ref="char:EOLhyphen"/>ſwer to the <hi>Defence of Amicia,</hi> pag. 3.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 60. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>He tells us alſo in the ſame page, that I do not put the queſtion of Law aright; but the point muſt be otherwaies proved then by ſuch a frivolous queſtion as mine is.</p>
+                     <pb n="52" facs="tcp:30342:30"/>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>I am ſure I know not how to put it clearer to the point; <hi>videlicet,</hi> whether Lands in thoſe Ages might not by the ancient Law be given in free-marriage with Baſtards? for Sir <hi>Thomas</hi> ſaith, the Deed of Ser<g ref="char:EOLhyphen"/>vices in frank-marriage with <hi>Amice,</hi> proves ſhe was no Baſtard, becauſe (ſaith he) the Law will not allow ſuch a grant with a Baſtard: I ſay, though at this day the Law will not allow it, yet it would then allow ſuch a grant in the Age when <hi>Amicia</hi> lived, as the Law as then taken: muſt not now the queſtion be— whether the Law in thoſe Ages would ſo allow it, or no?</p>
+                        <p>And yet it is no ſure Argument to prove <hi>Amice</hi> no Baſtard, though the Law ſhould not then allow ſuch a grant; as to argue thus— <hi>Amice</hi> had Lands given with her <hi>in libero maritagio,</hi> ergo, <hi>Amice</hi> was no Baſtard, for many irregular Deeds may ſometimes paſs, which in ſtrict<g ref="char:EOLhyphen"/>neſs
+<pb n="53" facs="tcp:30342:30"/>of Law might not prove au<g ref="char:EOLhyphen"/>thentical: But I conceive the Law in thoſe elder Ages would and did allow ſuch grants; and we plainly ſee he waves the queſtion, and will not abide the teſt; and it may ſup<g ref="char:EOLhyphen"/>poſe too, that the Opinions of ſome Lawyers (which he brags on in his books) were procured by putting off a wrong Caſe.</p>
+                        <p>I will alſo agree with him to put the other Caſe to the Judges, as he would have it put; <hi>videlicet,</hi> whe<g ref="char:EOLhyphen"/>ther the Law be not now altered in this and ſundry other particulars, from what it was in elder Ages, and that without any Act of Parliament? for otherwiſe Lands would now paſs with Baſtards legally <hi>in libero maritagio.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 61. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>Here the ſaith, that if I had been ſo converſant in Divinity, as I would have the Judges to believe, it ſeems ſtrange to Sir <hi>Thomas</hi> that
+<pb n="54" facs="tcp:30342:31"/>
+                        <hi>I</hi> had not learned by duty better to my deceaſed Grand-mother; for we are bound to Honour all our Pa<g ref="char:EOLhyphen"/>rents, mediate or immediate, living or dead; and ſo compares my wri<g ref="char:EOLhyphen"/>tings of theſe books to the wicked act of <hi>Cham</hi> in the Scripture, who divulged the ſhame of his Parent.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>In the firſt place, let me obſerve to the Reader, that this is he who oft blameth me for miſ<g ref="char:EOLhyphen"/>repeating, and yet runs into the ſame errour himſelf, and tells us here, that I would have the Judges to believe that I am much conver<g ref="char:EOLhyphen"/>ſant in Divinity; let him ſhew me where I ſay ſo, if he can, or that I make, or ſay, that I am converſant in Divinity; my words are—<hi>I</hi> pre<g ref="char:EOLhyphen"/>fer Divinity above all other Stu<g ref="char:EOLhyphen"/>dies; this is far from ſaying, I am converſant in Divinity.</p>
+                        <p>In the next place, this act of mine cannot by any rational man be ſaid to be like that of <hi>Cham,</hi> for he <hi>re<g ref="char:EOLhyphen"/>vera,</hi>
+                           <pb n="55" facs="tcp:30342:31"/>ſaw his Fathers Nakedneſs, and did not cover it, but told his Brethren without: now I could not ſee my ſaid Grand-mother's naked<g ref="char:EOLhyphen"/>neſs in that ſence, who dyed above 450. years agoe; nor will any man ſay, but himſelf, that I have utter<g ref="char:EOLhyphen"/>ed any ſcornful or diſgraceful words at all againſt her.</p>
+                        <p>Expoſitors on the Fifth Comman<g ref="char:EOLhyphen"/>dement, tell us, it includes in it the honouring of Kings and all in Au<g ref="char:EOLhyphen"/>thority over us, as well as our natu<g ref="char:EOLhyphen"/>ral Parents, to whom we owe ho<g ref="char:EOLhyphen"/>nour and reverence in like man<g ref="char:EOLhyphen"/>ner.</p>
+                        <p>And tell me, vvere ever any of thoſe vvorthy Perſons or Hiſtorians, vvho have commemorated the Wiſes and Concubines, Children and Baſtards of our Kings of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in their Hiſtories, ever tearm<g ref="char:EOLhyphen"/>ed <hi>Chams</hi> for the ſame? Nay, doth not <hi>Moſes</hi> himſelf, in his Hiſtory of <hi>Geneſis,</hi> chap. 38. Record the Whoredom of <hi>Judah</hi> (who was great Uncle to the Father of <hi>Moſes</hi>) with <hi>Thamar,</hi> his Daughter in Law,
+<pb n="56" facs="tcp:30342:32"/>and alſo her Baſtard-Twinns, <hi>Pha<g ref="char:EOLhyphen"/>res</hi> and <hi>Zarah?</hi> Nay, are not theſe Twinns reckoned up in the ſacred Genealogy, <hi>Matthew,</hi> Chap. 1.</p>
+                        <p>How many great and moſt ho<g ref="char:EOLhyphen"/>nourable Families have been de<g ref="char:EOLhyphen"/>ſcended from Baſtards, Kings, Dukes, Earls, and others?</p>
+                        <p>I have heard that King <hi>James</hi> uſed to ſay, it vvas a good Family that had neither Whore nor Thief a Kin to it: I am ſure it is a rare Family that never had any Baſtard.</p>
+                        <p>But Sir <hi>Thomas</hi> ſaith, that in ſome reſpects I have exceeeded that Pattern of <hi>Cham,</hi> 
+                           <note n="†" place="margin">
+                              <hi>pag.</hi> 62.</note> though I have done nothing at all like that Act of <hi>Cham; I</hi> am ſure he is <hi>Kim-Kam</hi> from the point, but he forgets his ovvn duty, as to revilings, 1 <hi>Cor.</hi> 6.10. and follovvs not the Pattern of <hi>Michael</hi> the Arch angel, vvho durſt not take up a railing ac<g ref="char:EOLhyphen"/>cuſation againſt the vvorſt of Anta<g ref="char:EOLhyphen"/>goniſts, <hi>Jude</hi> verſ. 9. and ſo much for the Caſe of Divinity, vvhich he miſtakes as vvell as his Lavv. It is
+<pb n="57" facs="tcp:30342:32"/>as Lawful for any Hiſtorian to Re<g ref="char:EOLhyphen"/>cord the Baſtards, as Lawful Chil<g ref="char:EOLhyphen"/>dren: It is an error not to do it.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 62. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p n="1">1. Here he ſaith, that in the ſe<g ref="char:EOLhyphen"/>cond book which I direct to all the Judges of <hi>England,</hi> it ſo falls out that there is nothing therein, but what is in my former books, and is already Anſwered; though if there had, he ſhould not have preſumed to have given any Anſwer thereto, becauſe thoſe learned Perſons know well enough what the Law was and is, in all particulars.</p>
+                     <p n="2">2. How-ever he cannot but ob<g ref="char:EOLhyphen"/>ſerve how ſlightly I ſpeak of the Lord <hi>Cook</hi> in my 48. <hi>page.</hi>
+                     </p>
+                     <p n="3">3. And alſo, how I have ſuch light expreſſions in my book direct<g ref="char:EOLhyphen"/>ed to the Judges, as he believes were never uſed before by any Per<g ref="char:EOLhyphen"/>ſon of diſcretion to ſuch Reverend and Learned men; no wonder therefore if I ſpeak courſely of him,
+<pb n="58" facs="tcp:30342:33" rendition="simple:additions"/>and tell him of ſo many impertinen<g ref="char:EOLhyphen"/>cies.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p n="1">1. To the firſt, I believe there is ſomething in that Second book, which is not in my former books, nor yet anſwered by him; and though the Learned Judges know what the Law was and is, better than either of us; yet we may with modeſty offer what we conceive is right to their more grave judg<g ref="char:EOLhyphen"/>ments; but it is a good excuſe.</p>
+                        <p n="2">2. To the ſecond, I do not ſpeak ſlightly of the Lord <hi>Cook</hi> in my 48. <hi>page,</hi> nor any where elſe; my words there are theſe,—As for the Lord <hi>Cooks</hi> citing of <hi>Bracton</hi> or <hi>Glanvil,</hi> in the Margent, as Authority, for what he there ſaith, if he maketh a falſe quotation, or ſuch, as is not to the point, neither I nor any man <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> elſe are bound to believe the Lord <hi>Cook</hi> more than any other.</p>
+                        <p>So let the Reader judge whether this be not another Trip.</p>
+                        <pb n="59" facs="tcp:30342:33"/>
+                        <p n="3">3. To the third: I conceive <hi>I I</hi> have no ſuch light expreſſions that might not be uſed to our light Con<g ref="char:EOLhyphen"/>troverſie, or before Learned Judges, nor yet ſuch as were never before uſed by any perſon of diſcretion, as he alledgeth: he might have done well to have ſhewed what thoſe expreſſions were; but per<g ref="char:EOLhyphen"/>haps, if they had been uſed by ſuch a diſcreet Perſon as himſelf, then they would not have been account<g ref="char:EOLhyphen"/>ed light expreſſions, but rather plain to the Point, not rude at all.</p>
+                     </div>
+                  </div>
+                  <div type="Manwarings_response">
+                     <head>Pag. 63. <hi>Of his Anſwer to my two Books.</hi>
+                     </head>
+                     <p>He ſaith here in the very Con<g ref="char:EOLhyphen"/>cluſion of his book—whether he be guilty of thoſe [Impertinencies] or untruths, or of that opprobrious Language which I do charge him with, let the indifferent Reader be judge; and whereas it appears that I am reſolved to have the laſt word, though I have nothing new to ſay; and that my writing again
+<pb n="60" facs="tcp:30342:34"/>be contrary both to my duty to my Deceaſed Grand-mother, and to my promiſe in Print: He declares that if what I ſhall write hereafter be no more to the purpoſe than what I have ſaid in thoſe two laſt books, that he will not appear in Print a<g ref="char:EOLhyphen"/>gainſt me any more.</p>
+                     <div type="Leicesters_rebuttal">
+                        <head>My Reply.</head>
+                        <p>To all which I ſay, that I do not know that I have any where at all charged him either with Imperti<g ref="char:EOLhyphen"/>nencies or Untruths, but what are ſo charged juſtly by me, that I can ſuddenly call to remembrance.</p>
+                        <p>And for opprobrious Language (wherein this laſt Anſwer of his far exceeds.) I have only this to add for my ſelf, that in my Anſwer to his <hi>Defence of Amicia, I</hi> think no man can ſhew me any one uncivil expreſſion in the whole book; but afterwards, when he had in his fol<g ref="char:EOLhyphen"/>lowing books taxed me unjuſtly in many things, and carped at every thing in mine, Pertinent or Imperti<g ref="char:EOLhyphen"/>nent,
+<pb n="61" facs="tcp:30342:34"/>
+                           <hi>I</hi> confeſs I was more ſevere in my expreſſions in my latter books, but he led the way; what I have ſaid, was but in vindication of my ſelf, for my Reputation is as dear to me as his can be to him; and though my expreſſions ſometimes may ſeem tart, yet not ſo oppro<g ref="char:EOLhyphen"/>brious neither as he makes them; had he kept cloſe to the point, and avoided his Calumnies and Cavils, and confeſt his Errors more ingeniouſly throughout, I ſhould neither have had occaſion to retort, nor have Anſwered to them.</p>
+                        <p>And what I have written above my firſt intention, he hath forced me thereunto.</p>
+                        <p>But now he will appear no more in Print againſt me, if what I ſhall write hereafter be no more to the purpoſe than what I have ſaid in thoſe two laſt books.</p>
+                        <p>Whereunto I ſay, that for cer<g ref="char:EOLhyphen"/>tain there is ſo much already ſaid
+<pb n="62" facs="tcp:30342:35"/>to the purpoſe in them, as is not yet ſolidly and ſubſtantially an<g ref="char:EOLhyphen"/>ſwered by him; and herein I ſub<g ref="char:EOLhyphen"/>mit my ſelf to all Ingenious Rea<g ref="char:EOLhyphen"/>ders.</p>
+                     </div>
+                  </div>
+                  <closer>
+                     <dateline>
+                        <hi>Mobberley,</hi> 
+                        <date>May 28, 1675.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb n="63" facs="tcp:30342:35"/>
+                  <head>PERORATIO <hi>AD</hi> LECTOREM.</head>
+                  <p>SInce I writ this Second Reply, I am credibly informed that Sir <hi>Thomas</hi> did write to ſome of his Friends about <hi>May</hi> or <hi>June,</hi> Anno Domini, 1675. to this or the like effect.—</p>
+                  <p>
+                     <hi>I hope now the Conteſt between Sir</hi> Peter <hi>and me will be at end; for Mr.</hi> Dugdale, <hi>in his</hi> Baronage of <hi>England,</hi> page 41. <hi>hath delivered his Opinion on my ſide: and Sir</hi> Peter <hi>having appealed to the Judges, Mr.</hi> Dugdale <hi>thereupon did move them in the Caſe; and they upon
+<pb n="64" facs="tcp:30342:36"/>mature debate determined that</hi> A<g ref="char:EOLhyphen"/>micia <hi>was no Baſtard. I have ſeen his last Sheet, which I have Anſwer<g ref="char:EOLhyphen"/>ed, but ſhall not yet Print it.</hi>
+                  </p>
+                  <p n="1">1. This Letter was ſhewed up and down <hi>Cheſter,</hi> purpoſely to de<g ref="char:EOLhyphen"/>lude the eaſie multitude; for ſince he cannot demonſtrate or ſupport the legitimacy of <hi>Amitia,</hi> either by good Reaſon or Authority, Sir. <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> uſed this ſecret practice to gain a belief of his Cauſe, as ſupported by Opinions; whereas in truth there is no ſuch thing as a mature debate by our Reverend Judges in the Caſe of <hi>Amicia;</hi> for as yet the Caſe in Law is not agreed upon by both ſides, how then can there be a ma<g ref="char:EOLhyphen"/>ture debate, or determination of the Controverſie? for Sir <hi>Thomas</hi> faith in his Anſwer to my two books, <hi>pag.</hi> 61. that the point muſt be o<g ref="char:EOLhyphen"/>therwiſe proved than by ſuch a fri<g ref="char:EOLhyphen"/>volous queſtion as mine is; and a little before <hi>pag.</hi> 60. he ſaith that in the Epiſtle Dedicatory, wherein I appeal to the Judges, I do not put
+<pb n="65" facs="tcp:30342:36"/>the queſtion aright; whereas there can be no other point of Law to be reſolved as to the Controverſie in hand, but this,—Whether Lands in thoſe elder Ages might, and did Lawfully paſs with Baſtards <hi>in libe<g ref="char:EOLhyphen"/>ro maritagio,</hi> or no? That they might, and did ſo paſs, I have be<g ref="char:EOLhyphen"/>fore in my other Books clearly proved as well by the very words of <hi>Glanvil</hi> himſelf, and the Law then no where diſallowing the ſame; as alſo by three ſure Prece<g ref="char:EOLhyphen"/>dents of thoſe Ages.</p>
+                  <p>But becauſe Sir <hi>Thomas</hi> takes this upon truſt from Mr. <hi>Dugdale,</hi> I ſhall here in publick unmask that Letter more fully, to the unde<g ref="char:EOLhyphen"/>ceiving of all men.</p>
+                  <p n="2">2. As to the Opinion of Mr. <hi>Dug<g ref="char:EOLhyphen"/>dale,</hi> it is true, he hath delivered his opinion for the Legitimacy of <hi>Amicia,</hi> in his Book of the Baronage of <hi>England,</hi> newly Publiſhed, <hi>Tom.</hi> 1. <hi>pag.</hi> 41. And it is no more than what Sir <hi>Thomas</hi> formerly told us in his books, That he was of that judgment before he publiſhed his
+<pb n="66" facs="tcp:30342:37"/>ſaid book of the Baronage: What then? many very wife and knowing men have declared their Opinions with me, that ſhe was a Baſtard; both Divines and Lawyers, and o<g ref="char:EOLhyphen"/>ther grave and underſtanding men; but I ſhall examine theſe things more particularly.</p>
+                  <p n="3">3. And in the firſt place, I ſhall always deſire to be underſtood without the leaſt detraction from the honour and due praiſe of Mr. <hi>Dugdale,</hi> of whom I have ever had a good eſteem, as a moſt diligent and indefatigable ſearcher of the Records and Antiquities of our Na<g ref="char:EOLhyphen"/>tion: <hi>Sed Bernardus non videt om<g ref="char:EOLhyphen"/>nia;</hi> nor ſhould I now have men<g ref="char:EOLhyphen"/>tioned him at all for his opinion herein, but that Sir <hi>Thomas Man<g ref="char:EOLhyphen"/>waring</hi> brings him here upon the Stage.</p>
+                  <p>Only we may by the way take notice, that ſome years agoe Mr. <hi>Dugdale</hi> did draw up Sir <hi>Thomas Manwaring</hi>'s Pedegree; wherein he puts <hi>Amicia,</hi> the Wife of <hi>Rafe Manwaring,</hi> without her due di<g ref="char:EOLhyphen"/>ſtinction
+<pb n="67" facs="tcp:30342:37"/>(as I conceive) of a Ba<g ref="char:EOLhyphen"/>ſtard, and is therefore the more concerned to ſtickle for Sir <hi>Thomas</hi> in this Conteſt between us: So that formerly he conſulted ſome Law<g ref="char:EOLhyphen"/>yers for their Opinions in this Caſe of Hiſtory; for whether Baſtard or no Baſtard hath nothing of Law in the Caſe, or whether <hi>Hugh Cyve<g ref="char:EOLhyphen"/>lioc</hi> Earl of <hi>Chester,</hi> had any former or other Wife beſides <hi>Bertra?</hi> theſe are queſtions to be reſolved by Hiſtory, Records, and Reaſon; but Mr. <hi>Dugdale</hi> would now ſup<g ref="char:EOLhyphen"/>port his opinion with a point of Law, and therefore moved ſome Lawyers for their opinions; but how the Caſe was ſtated, no body but himſelf knows, nor what the point of Law was, wherein they delivered their opinions: and me<g ref="char:EOLhyphen"/>thinks it argued ſome doubt within his own breaſt, that ſhe was a Baſtard; otherwayes why ſhould he conſult any Lawyers in the caſe: and in truth, let the Law be what it will, ſhe was certainly a Baſtard, which to my poor reaſon, is as plain
+<pb n="68" facs="tcp:30342:38"/>as the Sun when it ſhines; but it ſeems he was ſatisfied with the O<g ref="char:EOLhyphen"/>pinions of thoſe Lawyers, that ſhe was Legitimate, becauſe (ſaith he) it is a known <hi>Maxime</hi> in the Lavv, that nothing can be given in Frank<g ref="char:EOLhyphen"/>marriage to a Baſtard: but this <hi>Maxime</hi> is to be underſtood vvith a due diſtinction of the times and ages, othervviſe it will fail; but I ſhall anon ſpeak more of this, and of his moving the Judges in the Caſe; wherein I ſhould be glad to ſee vvhat Caſe he put, and the reſolu<g ref="char:EOLhyphen"/>tions of our Reverend Judges thereon, under their hands; in the mean time I ſhall go on with Mr. <hi>Dugdale</hi>'s Opinion, whereon Sir <hi>Thomas</hi> ſo much depends.</p>
+                  <p n="4">4, In his ſaid <hi>Book</hi> of the Baro<g ref="char:EOLhyphen"/>nage of <hi>England, pag.</hi> 34. b. he calls <hi>Robert</hi> and <hi>Ottiwel,</hi> two Ille<g ref="char:EOLhyphen"/>gitimate Sons of <hi>Hugh</hi> (Sirnamed <hi>Lupus</hi>) Earl of <hi>Cheſter;</hi> wherein he is to be commended for ſpeak<g ref="char:EOLhyphen"/>ing out, for ſo they were without all doubt: Hovvbeit, I find not any Author hitherto, vvho have Writ<g ref="char:EOLhyphen"/>ten
+<pb n="69" facs="tcp:30342:38"/>of our ancient Earles of <hi>Cheſter,</hi> Commemorating either theſe, or any other at all, as Baſtards, to any of our ancient Earls of <hi>Chester;</hi> neither <hi>Brooks</hi> in his Catalogue of Nobility, nor <hi>Vincent</hi> in his Gor<g ref="char:EOLhyphen"/>rections of <hi>Brook,</hi> nor <hi>Milles</hi> in his Catalogue of Honour, nor <hi>Fern</hi> in his <hi>Lacyes-Nobility,</hi> nor <hi>Powel</hi> in his Notes on the Welſh-Hiſtory, <hi>pag.</hi> 294. nor yet Mr. <hi>Dugdale</hi> himſelf, in his <hi>Warwick-ſhire;</hi> till here in his late book of the Baronage, he now ſpeaks out a little more.</p>
+                  <p n="5">5. But yet in the ſame page, he calls <hi>Geva</hi> (Daughter of <hi>Hugh Lu<g ref="char:EOLhyphen"/>pus,</hi> and Wife of <hi>Geffry Ridel</hi>) a Legitimate Daughter not to be doubted of, becauſe ſhe had <hi>Dray<g ref="char:EOLhyphen"/>ton-Baſſet</hi> given her in Free-Marri<g ref="char:EOLhyphen"/>age by her Father, which could not have been ſo beſtowed on a Baſtard, as our Learned Lawyers do clearly affirm; thus Mr. <hi>Dug<g ref="char:EOLhyphen"/>dale.</hi>
+                  </p>
+                  <p>Which very Deed of <hi>Drayton-Baſſet</hi> to <hi>Geva,</hi> I have produced in my <hi>Hiſtorical Antiquities,</hi> pag.
+<pb n="70" facs="tcp:30342:39"/>112. 113. as a ſure Precedent that Lands did paſs with Baſtards in Free-marriage in thoſe more anci<g ref="char:EOLhyphen"/>ent Ages, as well as with lawful Daughters; and have fully proved <hi>Geva</hi> to be a Baſtard out of an Hiſtorian of good Credit, and Con<g ref="char:EOLhyphen"/>temporary with <hi>Geva,</hi> by ſure Con<g ref="char:EOLhyphen"/>ſequence out of his words: See my Anſwer to the Defence of <hi>Amicia,</hi> pag. 33. to pag. 47. which Reaſons and Authorities are not yet ſolidly or rationally Anſwered by any, and which I ſhall have occaſion further to mention, when I come to the Caſe of <hi>Amicia</hi> truly ſtated.</p>
+                  <p>And here by the way, we may take notice, that theſe two Stick<g ref="char:EOLhyphen"/>lers for <hi>Geva,</hi> Sir <hi>Thomas Manwa<g ref="char:EOLhyphen"/>ring,</hi> and Mr. <hi>Dugdale,</hi> agree not in their points of Law; for Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> will not have theſe words <hi>(in libero Conjugio)</hi> uſed in the Deed of <hi>Drayton,</hi> to be good in Law, to make it a gift in Free-marriage, and only to convey but an Eſtate for life unto <hi>Geva;</hi> becauſe the Lord <hi>Cook</hi> affirms that a gift in Free-marriage
+<pb n="71" facs="tcp:30342:39"/>muſt be ſtrictly tyed up to the words <hi>(in libero maritagio)</hi> and no other: See more of this in my firſt Reply to Sir <hi>Thomas,</hi> pag. 4. to pag. 15.</p>
+                  <p>But Mr. <hi>Dugdale</hi> and his Law<g ref="char:EOLhyphen"/>yers take the words <hi>(in libero Con<g ref="char:EOLhyphen"/>jugio)</hi> in the Deed of <hi>Drayton,</hi> to be a good gift in Free-marriage; and ſo without doubt it was, and in thoſe Ages as good as <hi>in libero maritagio;</hi> and did convey an E<g ref="char:EOLhyphen"/>ſtate of Inheritance to the Heirs of <hi>Geva,</hi> who enjoyed <hi>Drayton</hi> ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                  <p>So we ſee Sir <hi>Thomas</hi> and the Lord <hi>Cook</hi> are of one Opinion, and Mr. <hi>Dugdale</hi> and his Lawyers are of another opinion; both of them againſt the Baſtardy of <hi>Geva,</hi> which yet is clearly collected by ſure con<g ref="char:EOLhyphen"/>ſequence out of <hi>Ordericus</hi> an Hiſto<g ref="char:EOLhyphen"/>rian, of very good Credit, and contemporary with <hi>Geva,</hi> who knew the truth better than any man now living can poſſibly know, and needeth no point of Law to prove the ſame, and cannot be diſ<g ref="char:EOLhyphen"/>proved
+<pb n="72" facs="tcp:30342:40"/>by any point of Law what<g ref="char:EOLhyphen"/>ſoever.</p>
+                  <p n="6">6. As to <hi>Amicia,</hi> he hath theſe words in his ſaid Book of the Ba<g ref="char:EOLhyphen"/>ronage, <hi>pag.</hi> 41.—That ſhe was Daughter of Earl <hi>Hugh</hi>—</p>
+                  <p n="1">1. It ſufficiently appears, not only from the grant of two Knights Fees with her in Frank-marriage, to <hi>Rafe de Meſnilwarin,</hi> where he ſo termeth her, but by another Deed of <hi>Roger de Meſnilwarin,</hi> her Son, wherein he calls <hi>Randle,</hi> Earl of <hi>Cheſter,</hi> his Uncle, who was Son of the ſaid Earl <hi>Hugh.</hi>
+                  </p>
+                  <p n="2">2. As to her Legitimacy, I do not well underſtand how there can be any queſtion, it being a known Maxime in Law, that nothing can be given in Frank-marriage to a Baſtard.</p>
+                  <p n="3">3. The point being then thus briefly cleared, I ſhall not need to raiſe further Arguments from Pro<g ref="char:EOLhyphen"/>babilities to back it, then to deſire it may be obſerved that <hi>Bertra</hi> (whom I conclude to be a ſecond Wife) was Married unto him when
+<pb n="73" facs="tcp:30342:40"/>he was in years, and ſhe her ſelf ve<g ref="char:EOLhyphen"/>ry young: So that he having been Earl no leſs than 28. years, it muſt neceſſarily follow that this <hi>Bertra</hi> was not born till four years after he came to the Earldome; nor is it a<g ref="char:EOLhyphen"/>ny marvel he ſhould then take ſuch a young Wife, having at that time no Iſſue-male to ſucceed him in this his great Inheritance: thus Mr. <hi>Dugdale.</hi>
+                  </p>
+                  <p n="1">1. To all which I ſay, firſt, That it plainly appears ſhe was Daughter of Earl <hi>Hugh;</hi> but that ſhe was a Lawful Daughter, that no where appears; nor did the Earl in the Deed mentioned, grant her two Knights-Fees in Frank-marriage, as is here alledged; but he granted with her in Frank-marriage, the Ser<g ref="char:EOLhyphen"/>vice of <hi>Gilbert,</hi> Son of <hi>Roger;</hi> to wit, the Service of three Knights-Fees, by doing to the Earl and his Heirs, the Service of two Knights-Fees; ſo that the Earl releaſed on<g ref="char:EOLhyphen"/>ly the Service of one Knights-Fee by this Deed; too mean a Portion
+<pb n="74" facs="tcp:30342:41"/>for a Lawful Daughter of the Earl of <hi>Cheſter,</hi> eſpecially for the ſole Daughter and Heir by a former Wife, as Mr. <hi>Dugdale</hi> ſuppoſeth her to be; ſo that <hi>res ipſa loquitur,</hi> whereas the four lawful Daughters of Earl <hi>Hugh,</hi> by his Wife <hi>Bertred,</hi> Married four of the greateſt Earls then in <hi>England,</hi> and ſhared all the Lands of the Earldome of <hi>Chester;</hi> and ſure the Eldeſt Daughter by a firſt Wife (if the Earl had a for<g ref="char:EOLhyphen"/>mer Wife) ought to have had as good a Portion of Lands or Money, as any of his Younger Daughters by a latter Wife, which for certain <hi>Amicia</hi> never had, nor claimed.</p>
+                  <p n="2">2. To the ſecond, the <hi>Maxime</hi> of Law, that nothing can be given in Frank-marriage to a <hi>Baſtard,</hi> is to be underſtood of the Law, as it is now taken in theſe latter Ages; but that the Law was otherwiſe ta<g ref="char:EOLhyphen"/>ken in the time of <hi>Amicia,</hi> and thoſe more ancient Ages, I have proved in my former books, both from the words of <hi>Glanvil,</hi> who was Chief Juſtice of <hi>England,</hi> and lived in
+<pb n="75" facs="tcp:30342:41"/>the very Age with <hi>Amicia,</hi> as al<g ref="char:EOLhyphen"/>ſo by three clear Preſidents of thoſe former Ages; and ſhall have fur<g ref="char:EOLhyphen"/>ther occaſion to mention the ſame in the Caſe of <hi>Amicia</hi> hereafter following, which I have briefly and truly ſtated by it ſelf, for the better apprehenſion of all men.</p>
+                  <p n="3">3. To the third: Here Mr. <hi>Dugdale</hi> concludeth <hi>Bertra</hi> to be a ſecond Wife; but doth not, nor cannot in the leaſt prove a former Wife; much leſs <hi>Amicia</hi> to be the Daughter of a former Wife.</p>
+                  <p>And as to his Argument of Pro<g ref="char:EOLhyphen"/>bability, I deny abſolutely that Earl <hi>Hugh</hi> Married <hi>Bertra</hi> when he was in years; for though he were Earl three or four years be<g ref="char:EOLhyphen"/>fore ſhe was born, yet it follows not that he did Marry her when he was in years, for he came to be Earl in his Infancy.</p>
+                  <p>But that I may lay this Argu<g ref="char:EOLhyphen"/>ment of P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>obability (as he calls it) aſleep for ever, take this Record here following, out of the Roll <hi>de Dominabus Pueris, &amp; Puellis,</hi> re<g ref="char:EOLhyphen"/>maining
+<pb n="76" facs="tcp:30342:42"/>in the <hi>Exchequer</hi> at <hi>Weſt<g ref="char:EOLhyphen"/>minſter:</hi> Which Roll Mr. <hi>Dugdale</hi> hath there alſo cited in the Mar<g ref="char:EOLhyphen"/>gent, to prove the Age of <hi>Bertrey,</hi> though not in the Words which I have here more at large expreſſed: I ſay, take here the true Coppy of the Rcord <hi>Verbatim,</hi> which my Friend hath twice examined for me, to prevent Miſtakes: <hi>viz.</hi>
+                  </p>
+                  <q>
+                     <p>Scacca<g ref="char:EOLhyphen"/>rium a<g ref="char:EOLhyphen"/>pud <hi>Weſt<g ref="char:EOLhyphen"/>minſter. In Rotulo de Dominabus Pueris, &amp; Puellis, de an<g ref="char:EOLhyphen"/>no</hi> 31. Hen. 2. <hi>in Cuſto<g ref="char:EOLhyphen"/>dia Rememoratoris Regis Exiſtente, continetur (in<g ref="char:EOLhyphen"/>ter alia) ut Sequitur,</hi> &amp;c.</p>
+                     <p>
+                        <hi>Cow. Lincoln.</hi>
+                     </p>
+                     <p>Balteſlaw-Wapentak.</p>
+                     <p>
+                        <hi>Matilda Comitiſſa Ceſtriae eſt de do<g ref="char:EOLhyphen"/>natione Domini Regis: et fuit fillia</hi> Roberti <hi>Comitis</hi> Gloceſtriae <hi>filij Re<g ref="char:EOLhyphen"/>gis</hi> Henrici <hi>Primi, et eſt</hi> L <hi>anno<g ref="char:EOLhyphen"/>rum, &amp; amplius: Hujus villae Re<g ref="char:EOLhyphen"/>cepit Comitiſſa his</hi> VIII. <hi>annis: Ip<g ref="char:EOLhyphen"/>ſa
+<pb n="77" facs="tcp:30342:42"/>tenet</hi> Wadinton <hi>in dote de feodo Comitis Cestriae: et firma eſt</hi> XXII.<hi rend="sup">libr.</hi> 
+                        <hi>per annum: dict a villa valet per an<g ref="char:EOLhyphen"/>num</hi> XL. <hi>lib: Cum hoc inſtaura<g ref="char:EOLhyphen"/>mento, Scilicet,</hi> II <hi>Carucis,</hi> IIII <hi>Vac<g ref="char:EOLhyphen"/>cis,</hi> I <hi>Tauro,</hi> IIII <hi>Suibus,</hi> I <hi>Verre, Dovibus, quae ibi ſunt:</hi> — &amp;c.</p>
+                     <p>Com. Lincoln.</p>
+                     <p>Jeretre-Wapentak.</p>
+                     <p>Bertreia <hi>Comitiſſa, filia Comitis de Evereous, uxor</hi> Hugonis <hi>Comitis</hi> Ceſtriae, <hi>eſt de donatione Domini Regis; &amp; eſt</hi> XXIX <hi>annorum. Ter<g ref="char:EOLhyphen"/>ra quam Comitiſſa habet,</hi> XL. <hi>lib. Maritagium; &amp; defectus ſunt ultrà mare, ideo neſciunt Juratores quid valeant. Dominus Rex praecepit, quod ipſa haberet</hi> XL <hi>libratas terrae Domini ſui in</hi> Beltesford, Hem<g ref="char:EOLhyphen"/>mingly, <hi>&amp;</hi> Duninton: <hi>licet non habuit niſi</hi> XXXV <hi>libratas, &amp;</hi> X <hi>ſolidatas. Quiá (ut dicunt) dicta terra non po<g ref="char:EOLhyphen"/>test plus valere cum Inſtauramento quod comitiſſa ibi recepit; Sci<g ref="char:EOLhyphen"/>licet,</hi> V <hi>Carucis,</hi> CCCXLI <hi>Ovi<g ref="char:EOLhyphen"/>bus,</hi>
+                        <pb n="78" facs="tcp:30342:43" rendition="simple:additions"/>X <hi>Suibus,</hi> I <hi>Verre. Sed ſi in</hi> Duninton <hi>apponerentur CCoves, &amp;</hi> X <hi>ſues, &amp;</hi> I <hi>verris, tunc Valeret.</hi>
+                     </p>
+                  </q>
+                  <p>So that, by this Record it clearly appears, that as <hi>Bertrey</hi> was twenty nine years of Age, 31. <hi>Hen.</hi> 2. 1185; So <hi>Maud</hi> (the Mother of <hi>Hugh Cy<g ref="char:EOLhyphen"/>vellioc,</hi> Earl of <hi>Cheſter</hi>) was aged fifty years, <hi>Anno Domini</hi> 1185. 31. Hen 2. <hi>&amp;c.</hi>
+                  </p>
+                  <p>And ſo <hi>Maud</hi> muſt be born <hi>Anno</hi> 1135. and <hi>Bertrey</hi> muſt be born <hi>An<g ref="char:EOLhyphen"/>no</hi> 1156.</p>
+                  <p>Now it cannot be imagined, that <hi>Maud</hi> could have a Child before ſhe was fifteen years of Age: And then Earl <hi>Hugh</hi> could not be born till the year 1150. at ſooneſt. And by Conſequence, Earl <hi>Hugh</hi> was a<g ref="char:EOLhyphen"/>bout three years old when he came to be Earl; and about ſix years older than his wife <hi>Bertrey.</hi>
+                  </p>
+                  <p>What a monſtrous and wild Com<g ref="char:EOLhyphen"/>putation then hath Sir <hi>Thomas Man<g ref="char:EOLhyphen"/>waring</hi> made, and upon utmoſt Poſ<g ref="char:EOLhyphen"/>ſibilities too, ſuppoſed, in his An<g ref="char:EOLhyphen"/>ſwer to my <hi>Addenda,</hi> pag. 50, 51.
+<pb n="79" facs="tcp:30342:43"/>where he would have Earl <hi>Hugh</hi> to be 41. years old when he marryed his Wife <hi>Bertrey,</hi> which Marriage he ſuppoſeth to be <hi>Anno</hi> 1171? So alſo in his Anſwer to my two Books, <hi>pag.</hi> 49. Wherunto ſee my <hi>Firſt Reply, pag.</hi> 91. to <hi>pag.</hi> 94. See alſo in my <hi>Second Reply,</hi> to his Ob<g ref="char:EOLhyphen"/>jection in that Point, mentioned here a little before, <hi>Pa:</hi> 46, 47.</p>
+                  <p>And how could Earl <hi>Hugh</hi> now be in years (as Mr. <hi>Dugdale</hi> would have him) when he marryed his Wife, ſuppoſing with Sir <hi>Thomas,</hi> the Marriage to fall <hi>Anno Domini</hi> 1171? For, by this Record Earl <hi>Hugh</hi> would then be but 21 years old, and his Wife about 15. years old. So this Argument of <hi>Proba<g ref="char:EOLhyphen"/>bility</hi> is become an Argument of <hi>Improbability</hi> of the Earl's having any former VVife.</p>
+                  <p>This Record came to my hands after I had written my <hi>Second Reply:</hi> And I am very confident, that when ſoever any Record, tending to this Point, concerning Earle <hi>Hugh,</hi> or <hi>Amicia,</hi> ſhall hereafter, at any time,
+<pb n="80" facs="tcp:30342:44"/>be diſcovered, it will more and more illuſtrate the Truth of what I have written about them.</p>
+                  <p n="7">7. Having now laid aſleep for ever The Argument of the Sticklers for the Legitimacy of <hi>Amicia,</hi> drawn from the Erroneous Computation of Earl <hi>Hugh</hi>'s Age; I come now to the Letter of Sir <hi>Thomas Manwa<g ref="char:EOLhyphen"/>ring,</hi> before mentioned, written by him to a Kinſman both of his and mine, and left with <hi>Throp</hi> the Sta<g ref="char:EOLhyphen"/>tioner in <hi>Cheſter,</hi> purpoſely to be divulged, and made known to every Man in Town: wherein he writ. (among other things), That I having appealed to the Judges, Mr. <hi>Dugdale</hi> had moved them in the Caſe: who upon Mature debate, determined, that <hi>Amicia</hi> was no Baſtard, as I was credibly inform<g ref="char:EOLhyphen"/>ed by one who ſaw the Letter.</p>
+                  <p>But, (as I ſaid before) How could there be any Mature-debate, or Determination of the Point in Controverſie by our Reverend Judg<g ref="char:EOLhyphen"/>es, whiles as yet the Caſe is not at all agreed upon between us? For,
+<pb n="81" facs="tcp:30342:44" rendition="simple:additions"/>Sir <hi>Thomas</hi> waves the Queſtion in Law, and will not abide the Teſt; See <hi>pag.</hi> 60, 61. of his Anſwer to my two books.</p>
+                  <p>For whether <hi>Amicia</hi> was a Baſtard, or no? this Queſtion hath nothing of any Law in the caſe, and therefore unfit to be put to our Re<g ref="char:EOLhyphen"/>verend Judges for their Opinions, unleſs alſo all the Records and Hiſtories touching the ſame, toge<g ref="char:EOLhyphen"/>ther with the Reaſons alledged on both ſides, were produced before them: It is more proper for them to judge only upon the point of Law.</p>
+                  <p>And it is granted on all hands, that Lands cannot paſs with Baſtards <hi>in libero maritagio,</hi> at this day, as the Law is now taken: but in the more ancient Ages, when the Deed to <hi>Amicia</hi> was made, Lands might and did uſually paſs with Baſtards <hi>in libero maritagio:</hi> I af<g ref="char:EOLhyphen"/>firm it out of ancient Precedents; Sir <hi>Thomas</hi> denies it.</p>
+                  <p>Now all Deeds by the rule of Law, are to be Conſtrued and under<g ref="char:EOLhyphen"/>ſtood
+<pb n="82" facs="tcp:30342:45"/>according to the time when they were made; ſo that there is now no other Caſe of Law to be put, but this, as I put the ſame in my Epiſtle Dedicatory, to all our Reverend and Learned Judges; to wit—</p>
+                  <p>Whether in the Age of <hi>Glanvil,</hi> Lands lawfully might, and did u<g ref="char:EOLhyphen"/>ſually paſs with Baſtards in Free-Marriage, or no?</p>
+                  <p>Again, I am aſſured from very good hands (who have lately en<g ref="char:EOLhyphen"/>quired of many of our Judges a<g ref="char:EOLhyphen"/>bove) that there was no ſuch thing as a mature debate &amp; determina<g ref="char:EOLhyphen"/>tion, as Sir <hi>Thomas</hi> mentioneth in his Letter, nor their Opinions at all delivered as yet in the Caſe of <hi>Ami<g ref="char:EOLhyphen"/>cia,</hi> now in Conteſt; and ſome of them ſaid, that they never had any ſuch a queſtion asked them, as whe<g ref="char:EOLhyphen"/>ther in the Age of <hi>Glanvil,</hi> Lands might Lawfully paſs in Free-mar<g ref="char:EOLhyphen"/>riage with Baſtards?</p>
+                  <p>If Mr. <hi>Dugdale</hi> hath moved any of the Judges in private, for their Opinions in any point of Law about
+<pb n="83" facs="tcp:30342:45"/>
+                     <hi>Amicia,</hi> had he but given me due notice of ſuch his intention, I would have met him half way, and ſo the Caſe might have been truly ſtated, and the point thorowly debated; for he being on the place, might have thoſe opportunities which I could not at this diſtance poſſibly have, and ſo the truth would have appeared to the world.</p>
+                  <p>And therefore, that I may deal above-board, I have here follow<g ref="char:EOLhyphen"/>ing, publiſhed by it ſelf, The Caſe of <hi>Amicia</hi> truly Stated, for the bet<g ref="char:EOLhyphen"/>ter apprehenſion &amp; information of all Perſons; and the rather, for that Mr. <hi>Dugdale</hi> only buildeth his Opinion of the Legitimacy of <hi>Ami<g ref="char:EOLhyphen"/>cia</hi> on the ſame point of Law, in his Baronage of <hi>England.</hi>
+                  </p>
+                  <p>And howbeit (as I formerly ſaid) I left every man to his own free judgment, thinking rather to eſta<g ref="char:EOLhyphen"/>bliſh my own Opinion by Authori<g ref="char:EOLhyphen"/>ties and good Reaſon, then by other mens Opinions; ſo I never went a<g ref="char:EOLhyphen"/>bout to hunt for Opinions, eſpeci<g ref="char:EOLhyphen"/>ally in the Caſe of <hi>Amicia,</hi> (for ma<g ref="char:EOLhyphen"/>ny
+<pb n="84" facs="tcp:30342:46" rendition="simple:additions"/>did concur with me without my ſeeking) till after that Letter of Sir <hi>Thomas Manwaring</hi> before-mentioned: for I ever counted it an improper thing to prove a point of Hiſtory by a nice point of Law.</p>
+                  <p>But I have lately made ſome en<g ref="char:EOLhyphen"/>quiry, and am aſſured from very good hands, that ſome of our more eminent Judges above (and I be<g ref="char:EOLhyphen"/>lieve all of them, if they would deliver their Opinions in the Caſe) do concur with me in the point of Law aforeſaid; and ſo do alſo o<g ref="char:EOLhyphen"/>ther Eminent and Learned Law<g ref="char:EOLhyphen"/>yer here below; that in thoſe elder Ages, a gift in Free-Marriage, with a Baſtard, was good, although at this day our Law is otherwayes ta<g ref="char:EOLhyphen"/>ken.</p>
+                  <p>So that now there is not ſo much as one ſeeming Argument of Rea<g ref="char:EOLhyphen"/>ſon left to uphold the Legitimacy of <hi>Amicia.</hi>
+                  </p>
+                  <p>Beſides, one of our moſt eminent Heralds of our Nation, and King at Armes, is of Opinion with me alſo, that Earl <hi>Hugh</hi> never had any other
+<pb n="85" facs="tcp:30342:46" rendition="simple:additions"/>Wife but <hi>Bertrey,</hi> as I have it from a ſure hand, who was then preſent when he publickly ſpoke it, whoſe judgment I may well bottom on; for I am ſure there is no Hiſtory, or Record to prove any other Wife at all, and very many other judici<g ref="char:EOLhyphen"/>ous and knowing men do concur in opinion, that <hi>Amicia</hi> was a Baſtard; and ſo I leave it to the judgment of all men, who are vers'd in Anti<g ref="char:EOLhyphen"/>quities, Records, and Hiſtories.</p>
+                  <p>And ſo I have done, if Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> hath doee; and now I think it will be time for both to have done.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Mobberley,</hi> 
+                        <date>Decem<g ref="char:EOLhyphen"/>ber <hi>the</hi> 17th. 1675.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:30342:47"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:30342:47"/>
+                  <p>THE CASE OF AMICIA Truly Stated.</p>
+                  <p>By Sir <hi>Peter Leyceſter,</hi> Baronet.</p>
+                  <p>
+                     <hi>Auguſt</hi> the 5th. MDCLXXV.</p>
+                  <q>Qui vult decipi, decipiatur.</q>
+                  <p>Printed in the Year, 1676.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:30342:48"/>
+                  <pb n="89" facs="tcp:30342:48"/>
+                  <head>THE CASE OF <hi>AMICIA</hi> Truly Stated.</head>
+                  <p>THe Queſtion concerning <hi>A<g ref="char:EOLhyphen"/>micia,</hi> Wife of <hi>Rafe Man<g ref="char:EOLhyphen"/>waring,</hi> and Daughter of <hi>Hugh,</hi> Sir-named <hi>Cyvelioc,</hi> Earl of <hi>Chester,</hi> is briefly this—</p>
+                  <p>Whether the ſaid <hi>Amicia</hi> was a Baſtard, or no? This is altogether a queſtion of Hiſtory, and nothing of Law at all in the Caſe.</p>
+                  <pb n="90" facs="tcp:30342:49"/>
+                  <p>The Reaſons Collected out of Hiſtory, Records, and Evidences, ſhewing her to be a Baſtard, are theſe—</p>
+                  <p n="1">1. It is confeſſed on all hands, that <hi>Amicia</hi> was no Daughter by <hi>Bertrey,</hi> the Wife of Earl <hi>Hugh,</hi> for then ſhe would have ſhared the Lands of the Earldom, with the o<g ref="char:EOLhyphen"/>ther Daughters by <hi>Bertrey,</hi> which for certain ſhe did not, nor ever claimed any part of the ſame, as is moſt manifeſt by the Record of 18. <hi>Hen.</hi> 3. when all the Co-heirs did implead <hi>John</hi> the Scot, then Earl of <hi>Cheſter,</hi> upon a Writ <hi>de rationa<g ref="char:EOLhyphen"/>bili parte:</hi> See my book of Hiſtori<g ref="char:EOLhyphen"/>cal Antiquities, <hi>pag.</hi> 151. as alſo by the teſtimonies of many of our ancient Hiſtorians, who have Re<g ref="char:EOLhyphen"/>corded all thoſe Daughters in their books.</p>
+                  <p>And ſhe could be no Daughter by any latter Wife, becauſe <hi>Bertrey</hi> ſurvived Earl <hi>Hugh,</hi> her Husband: See my ſaid book of Antiquities, <hi>pag.</hi> 132, &amp; 139, &amp; 143, &amp; 148.</p>
+                  <pb n="91" facs="tcp:30342:49" rendition="simple:additions"/>
+                  <p>And ſhe could be no Daughter by any former Wife; becauſe Earl <hi>Hugh</hi> never had any other Wife but <hi>Bertrey?</hi> And the Sticklers for the Legitimacy of <hi>Amicia,</hi> do confeſs that they cannot prove a<g ref="char:EOLhyphen"/>ny other VVife at all; much leſs can they prove <hi>Amicia</hi> to be the Daughter of any ſuch Wife: Therefore the Earl having no o<g ref="char:EOLhyphen"/>ther Wife but <hi>Bertrey,</hi> and <hi>Ami<g ref="char:EOLhyphen"/>cia</hi> being no Daughter by <hi>Bertrey, Amicia,</hi> Daughter of Earl <hi>Hugh,</hi> muſt certainly be a Baſtard.</p>
+                  <p n="2">2. Earl <hi>Hugh</hi> had ſeveral other Baſtards, as is evident by anci<g ref="char:EOLhyphen"/>ent Deeds; and if the bare al<g ref="char:EOLhyphen"/>ledging that he had another Wife be ſufficient without due proof, then all his other Baſtards may be made Legitimate, by ſaying that they were by another Wife: And our ancient Hiſtorians, as <hi>Matthew Paris, Poly-Chronicon, Knighton, Stow,</hi> and others, have Recorded the Lawful Children of Earl <hi>Hugh;</hi> but not one of them
+<pb n="92" facs="tcp:30342:50"/>mentioning <hi>Amicia</hi> in the leaſt, nor any former Wife at all, which ſome one or other of them, with<g ref="char:EOLhyphen"/>out doubt would have taken no<g ref="char:EOLhyphen"/>tice of, had <hi>Amicia</hi> been a Le<g ref="char:EOLhyphen"/>gitimate Daughter.</p>
+                  <p n="3">3. <hi>Rafe Manwaring,</hi> the Hus<g ref="char:EOLhyphen"/>band of <hi>Amicia,</hi> was not an equal Competitor at that time, to have Married a Lawful Daughter of the Earl of <hi>Cheſter;</hi> for we find the Lawful Daughters of this Earl <hi>Hugh</hi> were Married to the great<g ref="char:EOLhyphen"/>eſt Earls then in <hi>England:</hi> The Earl of <hi>Huntington,</hi> who was Brother to the King of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> the Earl of <hi>Arundel;</hi> the Earl of <hi>Darby;</hi> and the Earl of <hi>Wincheſter</hi>'s Son and Heir; and therefore it is more than proba<g ref="char:EOLhyphen"/>ble, that <hi>Amicia</hi> was not a Lawful Daughter, eſpecially ſince no pro<g ref="char:EOLhyphen"/>viſion conſiderable was made for her, who muſt have been the only Daughter &amp; Heir of Earl <hi>Hugh,</hi> by a firſt Wife, as thoſe of the con<g ref="char:EOLhyphen"/>trary opinion would make her;
+<pb n="93" facs="tcp:30342:50" rendition="simple:additions"/>and if ſo, ſhe ought in all Reaſon to have had fully as great an E<g ref="char:EOLhyphen"/>ſtate provided for her, as any of his Children by a latter Wife, which certainly ſhe never had. Where<g ref="char:EOLhyphen"/>fore <hi>res ipſa loquitur;</hi> for nothing appears to be given unto her, ſave only the releaſe of the Service of one Knights Fee, given with her in Frank-Marriage, which ſure was too ſmall a Portion for a Lawful Daughter of the Earl of <hi>Cheſter.</hi>
+                  </p>
+                  <p>And thus much for the Queſtion of Hiſtory, whether Baſtard, or no Baſtard?</p>
+                  <p>Which I ſubmit wholly to the Judgement of all Wife and knowing men, who are verſed in Hiſtories, Records, and Antiqui<g ref="char:EOLhyphen"/>ties.</p>
+                  <p>And many very wiſe and know<g ref="char:EOLhyphen"/>ing men, ſome Divines, ſome Lawyers, and other grave and un<g ref="char:EOLhyphen"/>derſtanding Perſons, have here<g ref="char:EOLhyphen"/>in declared that they concurre in Opinion, that <hi>Amicia</hi> was a Baſtard.</p>
+                  <pb n="94" facs="tcp:30342:51"/>
+                  <p>But now ariſeth another Queſti<g ref="char:EOLhyphen"/>on; for thoſe who would have <hi>Amicia</hi> to be a Lawful Daughter, and no Baſtard (which cannot be ſupported either by Hiſtory, Re<g ref="char:EOLhyphen"/>cords, or Reaſon) they would ground their Opinion from a point of Law; to wit, that Lands cannot paſs in Free-Marriage with a Baſtard; and becauſe <hi>Amicia</hi> had a grant of ſome Services in Free-Marriage, from the Earl her Fa<g ref="char:EOLhyphen"/>ther, therefore they conclude ſhe was no Baſtard: For all other Ar<g ref="char:EOLhyphen"/>guments for her Legitimacy are ſo void of Reaſon and Authority, that all bottoms on this one Argu<g ref="char:EOLhyphen"/>ment; and the Queſtion now is this—</p>
+                  <p>Whether the Deed of <hi>Hugh,</hi> Earl of <hi>Cheſter,</hi> (wherein he gran<g ref="char:EOLhyphen"/>ted unto <hi>Rafe Manwaring</hi> in Free-Marriage with <hi>Amicia</hi> his Daugh<g ref="char:EOLhyphen"/>ter, the Service of <hi>Gilbert,</hi> Son of <hi>Roger;</hi> to wit, the Service of three Knights-Fees, by doing to the ſaid Earl &amp; his Heirs the Service of two
+<pb n="95" facs="tcp:30342:51"/>Knights-Fees,) be a ſure Argument to prove <hi>Amicia</hi> a Legitimate Daughter?</p>
+                  <p>But for the better ſtating of the queſtion, it is granted on both ſides, that Lands cannot now paſs in Free-Marriage with a Baſtard, as the Law is taken at this day. The pro<g ref="char:EOLhyphen"/>per queſtion of Law therefore in the preſent Caſe is this—</p>
+                  <p>Whether by the Law, in <hi>Glan<g ref="char:EOLhyphen"/>vil</hi>'s time (who was chief Juſtice of <hi>England,</hi> under King <hi>Henry</hi> the Second, and lived in the very Age with <hi>Amicia,</hi> when the ſaid Deed was made) Lands might and did uſually paſs in thoſe Elder Ages in Free-marriage, as well with Ba<g ref="char:EOLhyphen"/>ſtards as no Baſtards?</p>
+                  <p>The Arguments for the Affirma<g ref="char:EOLhyphen"/>tive part are theſe—</p>
+                  <p n="1">1. From the very words of <hi>Glan<g ref="char:EOLhyphen"/>vil</hi> himſelf (who was the firſt after the Norman-Conqueſt, who re<g ref="char:EOLhyphen"/>duced the Model of our Common-Law into writing) in his Treatiſe <hi>de Legibus Angliae,</hi> lib. 7. cap. 1.
+<pb n="96" facs="tcp:30342:52"/>
+                     <hi>Quilibet liber homo quandam par<g ref="char:EOLhyphen"/>tem terrae ſuae cùm filiâ ſuâ vel cum aliquâ aliâ quâlibet muliere, dare poteſt in maritagium, ſive habuerit haeredem ſive non, velit haeres vel non, imo &amp; eo contradicente:</hi> Alſo <hi>lib.</hi> 7. <hi>cap.</hi> 18. <hi>Liberum dicitur ma<g ref="char:EOLhyphen"/>ritagium, quando aliquis liber homo aliquam partem terrae ſuae dat cum aliquâ muliere alicui in marita<g ref="char:EOLhyphen"/>gium, ità quod ab omni Servitio ter<g ref="char:EOLhyphen"/>ra illa ſit quieta, &amp; à ſe &amp; haeredi<g ref="char:EOLhyphen"/>bus ſuis, verſus capitalem Domi<g ref="char:EOLhyphen"/>num, acquietanda.</hi>
+                  </p>
+                  <p>And <hi>Bracton</hi> expreſly, <hi>lib.</hi> 2. <hi>cap.</hi> 7. <hi>Quoniam terra data Baſta<g ref="char:EOLhyphen"/>do in maritagium, ſicut &amp; aliis, vel Baſtardo per ſe, in ſe tacitam habet Conditionem vel expreſſam de reverſione</hi>—&amp;c. See alſo Sir <hi>Thomas Manwaring</hi>'s Law-Caſes miſtaken, <hi>pag.</hi> 10, 11.</p>
+                  <p>So that Lands might be given in Free-Marriage to any man, with any woman whomſoever, without any exception; and if with any wo<g ref="char:EOLhyphen"/>man whomſoever, then certainly
+<pb n="97" facs="tcp:30342:52"/>with a Baſtard; and <hi>Bracton</hi> more expreſly, that Lands might then be given to a Baſtard in Marriage; neither are Baſtards any where diſ<g ref="char:EOLhyphen"/>allowed by the Law, either in <hi>Glan<g ref="char:EOLhyphen"/>vil</hi> or <hi>Bracton,</hi> for having Lands given in Free-marriage.</p>
+                  <p n="2">2. That the Law was ſo taken in the time of King <hi>John,</hi> and upwards, appeareth by ſundry Precedents of thoſe elder Ages, whereby Lands were given in Free<g ref="char:EOLhyphen"/>marriage with Baſtards.</p>
+                  <p>See one in my Book of Antiqui<g ref="char:EOLhyphen"/>ties, <hi>pag.</hi> 112. wherein <hi>Randle,</hi> Earl of <hi>Chester</hi> (Sir-named <hi>de Gernouns</hi>) gave unto <hi>Geva Ridel,</hi> Daughter of Earl <hi>Hugh</hi> [that was <hi>Hugh Lupus</hi>] <hi>Drayton,</hi> in Free<g ref="char:EOLhyphen"/>marriage with the Appurtenances, even as Earl <hi>Hugh</hi> gave the ſame unto her in Free-marrige: This Deed was made about the end of <hi>Hen.</hi> I. or King <hi>Stephen.</hi>
+                  </p>
+                  <p>And that <hi>Geva</hi> was a Ba<g ref="char:EOLhyphen"/>ſtard, <hi>Ordericus</hi> an Hiſtorian of good Credit, and Contemporary with <hi>Geva,</hi> plainly ſhews; for <hi>lib.</hi> 4.
+<pb n="98" facs="tcp:30342:53"/>
+                     <hi>Eccleſiasticae Hiſtoria,</hi> pag. 522. He tells us that <hi>Hugh Lupus</hi> had many Baſtard-Sons &amp; Baſtard-Daughters; yet nameth none of them in particu<g ref="char:EOLhyphen"/>lar, <hi>è Pellicibus plurimam Sobolem utriuſque ſexûs genuit, quae diver<g ref="char:EOLhyphen"/>ſis infortunijs abſorpta penè tota periit: Exmentrudem filiam Hu<g ref="char:EOLhyphen"/>gonis de Claromonte Beluacenſi ux<g ref="char:EOLhyphen"/>orem duxit, ex quâ Ricardum Ce<g ref="char:EOLhyphen"/>ſtrenſis comitatûs haeredem genuit, qui jnvenis liberiſque Carens nau<g ref="char:EOLhyphen"/>fragio periit.</hi> So that having given an account of his Wife, and his Son by her, who dyed young, and without Children, he would cer<g ref="char:EOLhyphen"/>tainly have given an Account of his other Children by his Wife, if he had had any other by her; but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o put it out of all doubt, he tells us af<g ref="char:EOLhyphen"/>terwards, <hi>lib.</hi> 10. <hi>Eccleſ. Hiſt. pag.</hi> 787. <hi>Ricardus Pulcherrimus puer, quem ſolum ex Ermentrude filiâ Hu<g ref="char:EOLhyphen"/>gonis de Claromonte genuit, Conſu<g ref="char:EOLhyphen"/>latum (Ceſtriae Scilicet) tenuit,</hi> ſo that Earl <hi>Hugh</hi> only begot <hi>Richard</hi> on <hi>Ermentrude</hi> his Wife &amp; then by ſure conſequence out of his words, it muſt needs follow that <hi>Geva</hi> was
+<pb n="99" facs="tcp:30342:53"/>was one of the Earl's Baſtards, ſhe being no Child by <hi>Ermentrude,</hi> his Wife; which is clearly proved without a point of Law, and cannot by any point of Law be taken off.</p>
+                  <p>Again, if <hi>Geva</hi> had been a Law<g ref="char:EOLhyphen"/>ful Daughter by <hi>Ermentrude,</hi> then ſhe would have been ſole Heir to her Brother <hi>Richard,</hi> and ought to have had the Earldom of <hi>Cheſter,</hi> which ſhe never had, nor ever claim<g ref="char:EOLhyphen"/>ed: See this more fully in my An<g ref="char:EOLhyphen"/>ſwer to the Defence of <hi>Amicia,</hi> pag. 35. to pag. 40. and if and ſhall run to the old Subterſuge, and ſay, ſhe might be his Daughter by a former Wife, let him prove it, and take it; and ſhe could be no Daughter by a latter Wife, becauſe <hi>Ermentrudo</hi> ſurvived Earl <hi>Hugh</hi> her Husband: See my Hiſtorical Antiquities, <hi>pag.</hi> 114.</p>
+                  <p>Other two Precedents we have of Lands, granted in Free-marriage with <hi>Joan,</hi> Baſtard-Daughter of King <hi>John.</hi>
+                  </p>
+                  <p n="1">1. One, wherein King <hi>John</hi> granted to <hi>Lewellyn,</hi> Prince of
+<pb n="100" facs="tcp:30342:54"/>
+                     <hi>North-wales,</hi> in Marriage with <hi>Joan</hi> his Daughter, the Caſtel of <hi>Elleſmere</hi> in <hi>Shropſhire; Tenendum ei, &amp; haeredibus ſuis qui de eo &amp; praedictâ filiâ noſtrâ exierint, de nobis &amp; haeredibus noſtris in liberum maritagium; Salvis conventionibus inter nos &amp; ipſum de terrâ &amp; eo<g ref="char:EOLhyphen"/>dem maritagio factis,</hi> &amp;c. Dated <hi>Anno Sexto Johannis Regis,</hi> 1204. See the Deed at large in the Adver<g ref="char:EOLhyphen"/>tiſement to the Reader, at the end of my book, ſtiled Sir <hi>Thomas Manwaring</hi>'s Law-Caſes miſtaken, <hi>pag.</hi> 53. tranſcribed from the Re<g ref="char:EOLhyphen"/>cord in the Tower of <hi>London.</hi>
+                  </p>
+                  <p n="2">2. Another ſee in my book of Antiquities, <hi>pag.</hi> 152. wherein it is Covenanted that <hi>John</hi> the <hi>Scot,</hi> Nephew of <hi>Randle,</hi> Earl of <hi>Cheſter</hi> and <hi>Lincoln</hi> by his eldeſt Siſter, ſhall Marry <hi>Helen,</hi> Daughter of <hi>Lewellyn,</hi> Prince of <hi>North-wales;</hi> and that the ſaid <hi>Lewellyn</hi> ſhall give to the ſaid <hi>John</hi> in Free-Mar<g ref="char:EOLhyphen"/>riage all the Mannor of <hi>Budford</hi> in <hi>Warwick-ſhire,</hi> and the Mannor of <hi>Suttehele</hi> in <hi>Worceſter ſhire, cum
+<pb n="101" facs="tcp:30342:54"/>omnibus Pertinentiis, ſicut Dominus Johannes Rex ea illi dedit in libero maritagio</hi>—&amp;c. This Deed was made about 6. <hi>Hen.</hi> 3. <hi>Anno Chriſti.</hi> 1222. Now that the ſaid <hi>Joan</hi> was a Baſtard-Daughter of King <hi>John,</hi> take theſe ſeveral Authorities, <hi>Vin<g ref="char:EOLhyphen"/>cent</hi> upon <hi>Brook,</hi> pag. 204. <hi>Speeds</hi> Hiſtory, <hi>p.</hi> 518. <hi>Stow</hi>'s Annalls Aug<g ref="char:EOLhyphen"/>mented by <hi>Howes,</hi> pag. 167, 168. <hi>Polychronicon</hi> Tranſlated into <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> by <hi>Treviſa,</hi> lib. 7. cap. 33. <hi>Camb<g ref="char:EOLhyphen"/>dens Brittannia</hi> in <hi>Shropſhire,</hi> pag. 453. alſo <hi>Daniel</hi> and <hi>Fabian,</hi> and <hi>Milles</hi> Catalogue of Honour, and Sir <hi>Richard Baker</hi>'s Hiſtory, who do all call her baſe Daughter of King <hi>John;</hi> and no Author at all calls her Lawful Daughter, or reckoneth her among the Daughters by any of his Wives; ſome of them ſay ſhe was begot by King <hi>John</hi> on <hi>Agatha de Ferrars.</hi>
+                  </p>
+                  <p>And therefore theſe Deeds and Charters which concerned ſo great Perſons (whom we cannot ſuppoſe to be without Learned Councel a<g ref="char:EOLhyphen"/>bout them) are clear Precedents,
+<pb n="102" facs="tcp:30342:55"/>ſhowing how the Law was then ta<g ref="char:EOLhyphen"/>ken, and were good Deeds, con<g ref="char:EOLhyphen"/>veying the Lands with Baſtards in Free-marriage in thoſe Ages, which Lands were quietly enjoyed accor<g ref="char:EOLhyphen"/>dingly, and nothing can be ſaid a<g ref="char:EOLhyphen"/>gainſt them: Many other Prece<g ref="char:EOLhyphen"/>dents of like nature in thoſe ancient Ages, might without doubt, upon diligent ſearch and enquiry be found out.</p>
+                  <p>For as much then as it appears by the words of <hi>Glanvil,</hi> that Lands might then be given with any Wo<g ref="char:EOLhyphen"/>man whomſoever in Free-marriage, and no Baſtards then excepted or diſallowed by the Law, either in <hi>Glanvil</hi> or <hi>Bracton,</hi> and that clear Precedents of thoſe elder Ages do prove and ſhow, that Lands did then uſually paſs in Free-marriage, as well with Baſtards, as Lawful Daughters; and that all Deeds by the rule of Law, are to be conſtru<g ref="char:EOLhyphen"/>ed and underſtood according to the time when they were made: How can a Deed of Services, given <hi>in libero maritagio</hi> (in the Reign
+<pb n="103" facs="tcp:30342:55" rendition="simple:additions"/>of <hi>Henry</hi> the Second) with one juſt<g ref="char:EOLhyphen"/>ly ſuſpected to be a Baſtard, be a ſure Argument, or any Argument at all, to prove her Legitimate?</p>
+                  <p>Wherefore it is very evident, that in thoſe elder Ages (as the Law was then taken in the Reign of King <hi>John,</hi> and upwards) Lands lawfully might, &amp; uſually did paſs <hi>in libero maritagio</hi> with Baſtards, as well as with no Baſtards, how<g ref="char:EOLhyphen"/>beit at this day our Law will not permit the ſame.</p>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+            <back>
+               <div type="errata">
+                  <head>ERRATA.</head>
+                  <p>PAge 7, line 16, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> deſeaſed <hi>for</hi> diſeaſed; p. 8, l. 12, you <hi>for</hi> he, p, 14, l. 10, Index <hi>for</hi> Judex; p. 14, l. 19. The, to be expunged; p. 15, l. 9, <hi>Doterium</hi> for <hi>Dotarium;</hi> p. 30, l. 1, <hi>Cupitalis</hi> for <hi>Capita<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is;</hi> p. 48. laſt line, man <hi>for</hi> men; p. 40, l. 22, 23. this this, expunge the one of them; p. 58, l. 19, 20. man man, expunge the one of them; p. 42, miſpaged for 59; p. 76. in the margent, <hi>Seaccarium</hi> for <hi>Seaccarium.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
